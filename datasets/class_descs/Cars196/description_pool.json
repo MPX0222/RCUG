@@ -1,0 +1,982 @@
+{
+  "2010 Chevrolet HHR SS": [
+    "sleek_body_shape",
+    "chrome_grille_design",
+    "sporty_rear_spoiler"
+  ],
+  "2007 Hyundai Elantra Sedan": [
+    "compact_sedan_style",
+    "smooth_front_bumper",
+    "angular_headlight_shape"
+  ],
+  "2009 Mercedes-Benz SL-Class Coupe": [
+    "luxurious_coupe_lines",
+    "signature_star_emblem",
+    "curved_roof_design"
+  ],
+  "2012 Aston Martin Virage Convertible": [
+    "elegant_soft_top",
+    "distinctive_grille_style",
+    "sleek_silhouette_shape"
+  ],
+  "2007 Bentley Continental GT Coupe": [
+    "premium_leather_interior",
+    "graceful_body_curves",
+    "large_wheel_design"
+  ],
+  "2007 Chevrolet Malibu Sedan": [
+    "modern_sedan_profile",
+    "bold_front_fascia",
+    "spacious_rear_seat"
+  ],
+  "2012 GMC Savana Van": [
+    "boxy_van_shape",
+    "large_side_windows",
+    "functional_rear_doors"
+  ],
+  "2012 FIAT 500 Convertible": [
+    "retro_compact_style",
+    "rounded_front_bumper",
+    "colorful_soft_top"
+  ],
+  "2012 Ford Edge SUV": [
+    "rugged_suv_design",
+    "high_ride_height",
+    "bold_front_grille"
+  ],
+  "2008 Chrysler Crossfire Convertible": [
+    "unique_sporty_design",
+    "distinctive_headlight_shape",
+    "curved_rear_end"
+  ],
+  "2007 Bentley Continental Flying Spur Sedan": [
+    "luxurious_four_door",
+    "refined_interior_details",
+    "long_wheelbase_proportions"
+  ],
+  "2012 Ferrari FF Coupe": [
+    "aggressive_front_hood",
+    "sleek_aerodynamic_shape",
+    "signature_prancing_horse"
+  ],
+  "1994 Audi 100 Sedan": [
+    "classic_sedan_design",
+    "squared_headlight_shape",
+    "subtle_rear_spoiler"
+  ],
+  "2012 Jeep Patriot SUV": [
+    "boxy_suv_structure",
+    "rugged_front_grille",
+    "prominent_wheel_arches"
+  ],
+  "2012 BMW 1 Series Coupe": [
+    "sporty_coupe_profile",
+    "distinctive_front_fascia",
+    "compact_body_dimensions"
+  ],
+  "2012 Aston Martin Virage Coupe": [
+    "stylish_coupe_silhouette",
+    "signature_grille_design",
+    "elegant_body_lines"
+  ],
+  "2012 Porsche Panamera Sedan": [
+    "sleek_sedan_shape",
+    "dynamic_rear_design",
+    "distinctive_headlight_style"
+  ],
+  "2012 BMW 1 Series Convertible": [
+    "convertible_soft_top",
+    "sporty_rear_design",
+    "sleek_side_lines"
+  ],
+  "2012 Volkswagen Beetle Hatchback": [
+    "rounded_hatchback_shape",
+    "retro_front_design",
+    "colorful_exterior_options"
+  ],
+  "2008 Chrysler PT Cruiser Convertible": [
+    "distinctive_retro_shape",
+    "convertible_soft_top",
+    "curved_rear_lines"
+  ],
+  "2012 Volkswagen Golf Hatchback": [
+    "dual_exhaust_ports",
+    "compact_body_dimensions",
+    "compact_sedan_style"
+  ],
+  "2012 Acura ZDX Hatchback": [
+    "bold_headlight_shapes",
+    "curved_roof_design",
+    "chrome_grille_design"
+  ],
+  "2009 Dodge Sprinter Cargo Van": [
+    "large_side_windows",
+    "large_wheel_design",
+    "functional_rear_doors"
+  ],
+  "2012 Land Rover Range Rover SUV": [
+    "luxurious_interior_trim",
+    "rugged_offroad_appearance",
+    "luxurious_coupe_lines"
+  ],
+  "1998 Eagle Talon Hatchback": [
+    "sloping_rear_roofline",
+    "distinctive_side_skirts",
+    "smooth_front_bumper"
+  ],
+  "2007 Chevrolet Express Van": [
+    "functional_side_mirrors",
+    "boxy_van_shape",
+    "sleek_body_shape"
+  ],
+  "2007 Ford Freestar Minivan": [
+    "sliding_side_doors",
+    "spacious_interior_seating",
+    "large_side_windows"
+  ],
+  "2000 AM General Hummer SUV": [
+    "military_style_design",
+    "wide_tread_width",
+    "chrome_grille_design"
+  ],
+  "2012 Dodge Journey SUV": [
+    "versatile_cargo_space",
+    "smooth_side_curves",
+    "bold_front_grille"
+  ],
+  "2009 Spyker C8 Convertible": [
+    "sleek_body_shape",
+    "angular_headlight_shape",
+    "sleek_silhouette_shape"
+  ],
+  "2010 BMW M6 Convertible": [
+    "sporty_curved_hood",
+    "luxurious_interior_seating",
+    "sporty_rear_spoiler"
+  ],
+  "2012 Acura TSX Sedan": [
+    "retro_front_design",
+    "chrome_grille_design",
+    "smooth_front_bumper"
+  ],
+  "2012 Acura TL Sedan": [
+    "high-tech_dashboard",
+    "bold_front_grille",
+    "bold_front_fascia"
+  ],
+  "1998 Nissan 240SX Coupe": [
+    "pop_up_headlights",
+    "distinctive_rear_fenders",
+    "luxurious_coupe_lines"
+  ],
+  "1999 Plymouth Neon Coupe": [
+    "compact_coupe_shape",
+    "simple_rear_lights",
+    "sleek_body_shape"
+  ],
+  "2011 Infiniti QX56 SUV": [
+    "luxurious_exterior_design",
+    "spacious_interior_layout",
+    "chrome_grille_design"
+  ],
+  "2012 Cadillac SRX SUV": [
+    "luxury_interior_materials",
+    "dynamic_rear_design",
+    "sporty_rear_design"
+  ],
+  "2012 Mitsubishi Lancer Sedan": [
+    "prominent_scoop_hood",
+    "elegant_body_lines",
+    "sleek_body_shape"
+  ],
+  "2012 Jeep Wrangler SUV": [
+    "removable_roof",
+    "rugged_suv_design",
+    "chrome_grille_design"
+  ],
+  "2012 Toyota 4Runner SUV": [
+    "tall_exterior_profile",
+    "robust_rear_bumper",
+    "modern_sedan_profile"
+  ],
+  "1994 Audi 100 Wagon": [
+    "sleek_body_shape",
+    "sleek_silhouette_shape",
+    "sleek_aerodynamic_shape"
+  ],
+  "2012 Nissan Leaf Hatchback": [
+    "electric_car_design",
+    "aerodynamic_front_end",
+    "compact_rear_wing"
+  ],
+  "2012 Ferrari California Convertible": [
+    "elegant_soft_top",
+    "colorful_soft_top",
+    "convertible_soft_top"
+  ],
+  "2012 Ford Fiesta Sedan": [
+    "distinctive_headlight_style",
+    "compact_sedan_style",
+    "angular_headlight_shape"
+  ],
+  "2007 Audi S4 Sedan": [
+    "quad_exhaust_outlets",
+    "sporty_suspension_stance",
+    "bold_front_fascia"
+  ],
+  "2012 Maybach Landaulet Convertible": [
+    "extravagant_interior_space",
+    "chrome_plated_details",
+    "elegant_soft_top"
+  ],
+  "2007 Suzuki Aerio Sedan": [
+    "dynamic_rear_design",
+    "sporty_rear_design",
+    "sporty_rear_spoiler"
+  ],
+  "2012 Hyundai Veloster Hatchback": [
+    "distinctive_three_door",
+    "asymmetrical_body_style",
+    "distinctive_grille_style"
+  ],
+  "2012 Chevrolet Silverado 2500HD Regular Cab": [
+    "rugged_truck_body",
+    "high_payload_capacity",
+    "sleek_body_shape"
+  ],
+  "2010 Dodge Ram Pickup 3500 Crew Cab": [
+    "heavy_duty_design",
+    "spacious_cabin_area",
+    "chrome_grille_design"
+  ],
+  "2012 BMW X6 SUV": [
+    "coupe_like_roofline",
+    "prominent_fender_flairs",
+    "luxurious_coupe_lines"
+  ],
+  "2012 Chevrolet Corvette Convertible": [
+    "iconic_front_scoops",
+    "low_profile_design",
+    "convertible_soft_top"
+  ],
+  "2012 Ferrari 458 Italia Coupe": [
+    "sharp_angled_body",
+    "mid_engine_layout",
+    "signature_tail_lights"
+  ],
+  "2012 Fisker Karma Sedan": [
+    "futuristic_design_aesthetics",
+    "chrome_grille_design",
+    "curved_roof_design"
+  ],
+  "2011 Audi S6 Sedan": [
+    "powerful_engine_hood",
+    "sporty_body_kits",
+    "aggressive_front_hood"
+  ],
+  "2007 Ford F-150 Regular Cab": [
+    "robust_truck_frame",
+    "functional_bed_space",
+    "robust_rear_bumper"
+  ],
+  "2007 Ford Mustang Convertible": [
+    "muscular_body_style",
+    "sleek_body_shape",
+    "compact_sedan_style"
+  ],
+  "2012 Rolls-Royce Ghost Sedan": [
+    "bold_front_grille",
+    "rugged_front_grille",
+    "bold_front_fascia"
+  ],
+  "2012 BMW X3 SUV": [
+    "rugged_suv_design",
+    "chrome_grille_design",
+    "curved_roof_design"
+  ],
+  "2008 Audi RS 4 Convertible": [
+    "performance_oriented_design",
+    "luxurious_seat_materials",
+    "chrome_grille_design"
+  ],
+  "2012 McLaren MP4-12C Coupe": [
+    "orange_highlighted_body",
+    "carbon_fiber_details",
+    "sleek_aerodynamic_shape"
+  ],
+  "2012 Nissan Juke Hatchback": [
+    "bulbous_headlights_design",
+    "compact_raised_roof",
+    "distinctive_fender_flare"
+  ],
+  "2012 Aston Martin V8 Vantage Coupe": [
+    "grille_with_winged_logo",
+    "curvaceous_sleek_profile",
+    "chrome_grille_design"
+  ],
+  "2012 FIAT 500 Abarth": [
+    "retro_round_headlights",
+    "pop_up_headlights",
+    "retro_compact_style"
+  ],
+  "2008 Acura TL Type-S": [
+    "smooth_front_bumper",
+    "rounded_front_bumper",
+    "aggressive_front_hood"
+  ],
+  "2012 BMW 3 Series Sedan": [
+    "elegant_sedan_silhouette",
+    "signature_grille_design",
+    "chrome_grille_design"
+  ],
+  "2012 Chevrolet Traverse SUV": [
+    "tall_stance_SUV",
+    "rugged_suv_design",
+    "boxy_suv_structure"
+  ],
+  "2012 Jeep Grand Cherokee SUV": [
+    "boxy_van_shape",
+    "sleek_body_shape",
+    "sleek_silhouette_shape"
+  ],
+  "2012 Hyundai Elantra Touring Hatchback": [
+    "streamlined_hatchback_design",
+    "sharp_headlight_edges",
+    "chrome_grille_design"
+  ],
+  "2012 Toyota Corolla Sedan": [
+    "classic_sedan_design",
+    "compact_sedan_style",
+    "modern_sedan_profile"
+  ],
+  "2007 Chevrolet Corvette Ron Fellows Edition Z06": [
+    "racing_stripes_design",
+    "wide_rear_wheel",
+    "sporty_curved_hood"
+  ],
+  "2012 Buick Enclave SUV": [
+    "elegant_body_lines",
+    "curved_rear_lines",
+    "sleek_body_shape"
+  ],
+  "2009 Bugatti Veyron 16.4 Convertible": [
+    "iconic_bullet_shape",
+    "sleek_body_shape",
+    "angular_headlight_shape"
+  ],
+  "2012 Honda Odyssey Minivan": [
+    "tall_windshield_angle",
+    "spacious_interior_seating",
+    "spacious_interior_layout"
+  ],
+  "2012 Chevrolet Sonic Sedan": [
+    "compact_sedan_style",
+    "modern_sedan_profile",
+    "classic_sedan_design"
+  ],
+  "2012 Lamborghini Gallardo LP 570-4 Superleggera": [
+    "aggressive_front_hood",
+    "retro_front_design",
+    "chrome_grille_design"
+  ],
+  "2012 Mercedes-Benz Sprinter Van": [
+    "boxy_van_shape",
+    "sleek_body_shape",
+    "sleek_silhouette_shape"
+  ],
+  "2007 Dodge Durango SUV": [
+    "muscular_front_fenders",
+    "high_ground_clearance",
+    "smooth_front_bumper"
+  ],
+  "2012 Chevrolet Corvette ZR1": [
+    "aerodynamic_hood_scoop",
+    "wide_rear_diffuser",
+    "prominent_scoop_hood"
+  ],
+  "2011 Dodge Challenger SRT8": [
+    "retro_muscle_car_shape",
+    "wide_stance_wheels",
+    "distinctive_retro_shape"
+  ],
+  "2012 Audi A5 Coupe": [
+    "distinctive_single_frame",
+    "elegant_led_headlights",
+    "unique_sporty_design"
+  ],
+  "1993 Geo Metro Convertible": [
+    "simple_canvas_top",
+    "compact_body_dimensions",
+    "elegant_soft_top"
+  ],
+  "2010 Chrysler 300 SRT-8": [
+    "chrome_grille_design",
+    "signature_grille_design",
+    "signature_star_emblem"
+  ],
+  "2010 Chevrolet Malibu Hybrid Sedan": [
+    "green_energy_badge",
+    "subtle_side_sculpting",
+    "sleek_sedan_shape"
+  ],
+  "1993 Volvo 240 Sedan": [
+    "large_square_headlights",
+    "boxy_van_shape",
+    "pop_up_headlights"
+  ],
+  "1994 Audi V8 Sedan": [
+    "elegant_quattro_badge",
+    "sleek_exhaust_design",
+    "premium_leather_interior"
+  ],
+  "2012 Hyundai Accent Sedan": [
+    "compact_efficient_design",
+    "stylish_rear_tailights",
+    "chrome_grille_design"
+  ],
+  "2012 Nissan NV Passenger Van": [
+    "spacious_van_body",
+    "sleek_body_shape",
+    "graceful_body_curves"
+  ],
+  "2012 Tesla Model S Sedan": [
+    "minimalist_dashboard_display",
+    "signature_led_tailights",
+    "sleek_side_lines"
+  ],
+  "2008 Dodge Magnum Wagon": [
+    "muscular_wagon_shape",
+    "sleek_body_shape",
+    "angular_headlight_shape"
+  ],
+  "2012 Hyundai Sonata Sedan": [
+    "stylish_sunroof_design",
+    "elegant_body_lines",
+    "sleek_body_shape"
+  ],
+  "2012 Toyota Camry Sedan": [
+    "reliable_sedan_appearance",
+    "smooth_aerodynamic_profile",
+    "compact_sedan_style"
+  ],
+  "2007 Cadillac Escalade EXT Crew Cab": [
+    "luxurious_exterior_design",
+    "chrome_grille_design",
+    "luxurious_coupe_lines"
+  ],
+  "2007 Honda Odyssey Minivan": [
+    "family_friendly_layout",
+    "versatile_seating_arrangement",
+    "spacious_interior_layout"
+  ],
+  "2011 Bentley Mulsanne Sedan": [
+    "exquisite_craftsmanship_finish",
+    "refined_interior_details",
+    "premium_leather_interior"
+  ],
+  "2012 Ford F-150 Regular Cab": [
+    "rugged_pickup_style",
+    "compact_sedan_style",
+    "distinctive_grille_style"
+  ],
+  "2010 Chevrolet Cobalt SS": [
+    "retro_compact_style",
+    "compact_sedan_style",
+    "distinctive_grille_style"
+  ],
+  "2008 Isuzu Ascender SUV": [
+    "robust_suv_shape",
+    "versatile_roof_rack",
+    "sleek_body_shape"
+  ],
+  "2012 Chevrolet Avalanche Crew Cab": [
+    "unique_combination_body",
+    "flexible_cargo_system",
+    "sleek_body_shape"
+  ],
+  "2012 Hyundai Genesis Sedan": [
+    "high_quality_materials",
+    "luxurious_exterior_design",
+    "luxurious_coupe_lines"
+  ],
+  "2009 Bugatti Veyron 16.4 Coupe": [
+    "sleek_aerodynamic_shape",
+    "sleek_body_shape",
+    "sleek_silhouette_shape"
+  ],
+  "2012 Chrysler Town and Country Minivan": [
+    "spacious_interior_seating",
+    "spacious_interior_layout",
+    "premium_leather_interior"
+  ],
+  "2010 Dodge Dakota Crew Cab": [
+    "large_cab_space",
+    "rugged_pickup_style",
+    "rugged_truck_body"
+  ],
+  "2012 Land Rover LR2 SUV": [
+    "off_road_capability",
+    "sleek_body_shape",
+    "chrome_grille_design"
+  ],
+  "2007 Dodge Dakota Club Cab": [
+    "extended_cab_design",
+    "bulky_rear_bed",
+    "sturdy_frame_structure"
+  ],
+  "2007 Chevrolet Monte Carlo Coupe": [
+    "classic_two_door_style",
+    "curved_sleek_roofline",
+    "compact_sedan_style"
+  ],
+  "1991 Volkswagen Golf Hatchback": [
+    "rounded_hatchback_shape",
+    "compact_coupe_shape",
+    "sleek_body_shape"
+  ],
+  "2012 Chevrolet Silverado 1500 Regular Cab": [
+    "large_cargo_bed",
+    "bold_front_fascia",
+    "bold_front_grille"
+  ],
+  "2007 BMW 6 Series Convertible": [
+    "elegant_soft_top",
+    "colorful_soft_top",
+    "convertible_soft_top"
+  ],
+  "2012 GMC Yukon Hybrid SUV": [
+    "hybrid_badging",
+    "sleek_body_shape",
+    "chrome_grille_design"
+  ],
+  "2009 Dodge Charger SRT-8": [
+    "muscle_car_aesthetic",
+    "retro_muscle_car_shape",
+    "electric_car_design"
+  ],
+  "1997 Dodge Caravan Minivan": [
+    "boxy_van_shape",
+    "sleek_body_shape",
+    "angular_headlight_shape"
+  ],
+  "2009 Chevrolet TrailBlazer SS": [
+    "sporty_coupe_profile",
+    "sporty_rear_spoiler",
+    "modern_sedan_profile"
+  ],
+  "2012 Cadillac CTS-V Sedan": [
+    "performance_tuned_body",
+    "compact_sedan_style",
+    "sleek_body_shape"
+  ],
+  "2012 Suzuki SX4 Sedan": [
+    "slim_profile_shape",
+    "compact_sedan_style",
+    "classic_sedan_design"
+  ],
+  "2012 Lamborghini Aventador Coupe": [
+    "sharp_edged_design",
+    "chrome_grille_design",
+    "curved_roof_design"
+  ],
+  "2007 Chevrolet Silverado 1500 Classic Extended Cab": [
+    "classic_pickup_shape",
+    "extended_cab_space",
+    "rugged_rear_bed"
+  ],
+  "2012 Audi S5 Coupe": [
+    "elegant_two_door",
+    "elegant_soft_top",
+    "luxurious_four_door"
+  ],
+  "2011 Audi TT Hatchback": [
+    "rounded_hatchback_shape",
+    "sleek_body_shape",
+    "angular_headlight_shape"
+  ],
+  "2006 Ford GT Coupe": [
+    "distinctive_front_air_intakes",
+    "racing_stripes_design",
+    "chrome_grille_design"
+  ],
+  "2009 Ford Expedition EL SUV": [
+    "bold_front_grille",
+    "rugged_front_grille",
+    "bold_front_fascia"
+  ],
+  "2012 Chevrolet Camaro Convertible": [
+    "unique_sporty_design",
+    "sporty_rear_design",
+    "chrome_grille_design"
+  ],
+  "2012 Rolls-Royce Phantom Drophead Coupe Convertible": [
+    "luxurious_leather_seats",
+    "luxurious_coupe_lines",
+    "premium_leather_interior"
+  ],
+  "2012 Hyundai Tucson SUV": [
+    "modern_interior_features",
+    "compact_coupe_shape",
+    "sleek_body_shape"
+  ],
+  "2012 Jeep Compass SUV": [
+    "rugged_off_road_look",
+    "off_road_capability",
+    "rugged_suv_design"
+  ],
+  "2011 Ford Ranger SuperCab": [
+    "sturdy_pickup_body",
+    "extended_cab_space",
+    "large_cab_space"
+  ],
+  "2007 Volvo XC90 SUV": [
+    "safety_feature_highlights",
+    "sleek_body_shape",
+    "chrome_grille_design"
+  ],
+  "2012 Acura RL Sedan": [
+    "elegant_body_lines",
+    "sleek_body_shape",
+    "luxurious_coupe_lines"
+  ],
+  "2012 Ram C/V Cargo Van Minivan": [
+    "commercial_van_design",
+    "high_roof_structure",
+    "versatile_cargo_space"
+  ],
+  "2007 Dodge Caliber Wagon": [
+    "hatchback_style",
+    "compact_sedan_style",
+    "distinctive_grille_style"
+  ],
+  "2002 Daewoo Nubira Wagon": [
+    "muscular_wagon_shape",
+    "classic_pickup_shape",
+    "sleek_body_shape"
+  ],
+  "2007 Chevrolet Impala Sedan": [
+    "smooth_sculpted_body",
+    "classic_sedan_design",
+    "sleek_body_shape"
+  ],
+  "2012 Audi TTS Coupe": [
+    "sporty_coupe_profile",
+    "curvaceous_sleek_profile",
+    "sleek_body_shape"
+  ],
+  "2012 Mercedes-Benz E-Class Sedan": [
+    "compact_sedan_style",
+    "retro_compact_style",
+    "hatchback_style"
+  ],
+  "2012 Audi R8 Coupe": [
+    "striking_coupe_design",
+    "iconic_side_intakes",
+    "chrome_grille_design"
+  ],
+  "2012 MINI Cooper Roadster Convertible": [
+    "compact_coupe_shape",
+    "sleek_body_shape",
+    "sleek_silhouette_shape"
+  ],
+  "2007 Chevrolet Express Cargo Van": [
+    "boxy_van_shape",
+    "sleek_body_shape",
+    "angular_headlight_shape"
+  ],
+  "2012 GMC Terrain SUV": [
+    "robust_body_structure",
+    "bold_front_grille",
+    "rugged_front_grille"
+  ],
+  "2001 Acura Integra Type R": [
+    "rounded_hatchback_shape",
+    "hatchback_style",
+    "sleek_body_shape"
+  ],
+  "2012 Audi S4 Sedan": [
+    "sporty_performance_aesthetic",
+    "quattro_badging_details",
+    "sporty_rear_spoiler"
+  ],
+  "2012 Jaguar XK XKR": [
+    "unique_sporty_design",
+    "sporty_rear_design",
+    "chrome_grille_design"
+  ],
+  "2012 GMC Canyon Extended Cab": [
+    "all_terrain_capability",
+    "rugged_pickup_style",
+    "off_road_capability"
+  ],
+  "2012 Bentley Continental Supersports Conv. Convertible": [
+    "twin_turbocharged_engine",
+    "elegant_body_lines",
+    "sleek_body_shape"
+  ],
+  "2012 Bentley Continental GT Coupe": [
+    "luxurious_coupe_lines",
+    "luxurious_four_door",
+    "sporty_coupe_profile"
+  ],
+  "2012 Dodge Caliber Wagon": [
+    "rounded_hatchback_shape",
+    "hatchback_style",
+    "compact_sedan_style"
+  ],
+  "2012 Honda Accord Coupe": [
+    "modern_dashboard_layout",
+    "sporty_coupe_profile",
+    "modern_sedan_profile"
+  ],
+  "2007 Ford Focus Sedan": [
+    "efficient_engine_performance",
+    "compact_sedan_style",
+    "turbocharged_performance"
+  ],
+  "2012 Audi S5 Convertible": [
+    "stylish_convertible_aesthetic",
+    "quattro_all_wheel_drive",
+    "stylish_coupe_silhouette"
+  ],
+  "2007 BMW X5 SUV": [
+    "high_tech_instrument_panel",
+    "spacious_interior_seating",
+    "spacious_interior_layout"
+  ],
+  "2012 Chevrolet Silverado 1500 Hybrid Crew Cab": [
+    "strong_pickup_structure",
+    "fuel_efficient_hybrid_technology",
+    "boxy_suv_structure"
+  ],
+  "2012 BMW Z4 Convertible": [
+    "dynamic_roadster_performance",
+    "distinctive_retractable_roof",
+    "unique_sporty_design"
+  ],
+  "2012 smart fortwo Convertible": [
+    "ultra_compact_size",
+    "efficient_city_driving",
+    "unique_two_seater_layout"
+  ],
+  "2012 Volvo C30 Hatchback": [
+    "premium_audio_system",
+    "hatchback_style",
+    "compact_sedan_style"
+  ],
+  "2012 Hyundai Santa Fe SUV": [
+    "modern_sedan_profile",
+    "compact_sedan_style",
+    "classic_sedan_design"
+  ],
+  "2001 Lamborghini Diablo Coupe": [
+    "aggressive_coupe_look",
+    "v12_engine_power",
+    "luxurious_coupe_lines"
+  ],
+  "2012 Rolls-Royce Phantom Sedan": [
+    "classic_sedan_design",
+    "chrome_grille_design",
+    "compact_sedan_style"
+  ],
+  "2009 Dodge Ram Pickup 3500 Quad Cab": [
+    "heavy_duty_pickup_frame",
+    "spacious_quad_cab_layout",
+    "heavy_duty_design"
+  ],
+  "2010 Chrysler Sebring Convertible": [
+    "classic_convertible_style",
+    "roomy_passenger_cabin",
+    "classic_two_door_style"
+  ],
+  "2012 Audi TT RS Coupe": [
+    "turbocharged_performance",
+    "sporty_coupe_profile",
+    "compact_coupe_shape"
+  ],
+  "2010 BMW M5 Sedan": [
+    "dynamic_driving_experience",
+    "classic_sedan_design",
+    "chrome_grille_design"
+  ],
+  "2012 Suzuki Kizashi Sedan": [
+    "sleek_body_shape",
+    "sleek_silhouette_shape",
+    "sleek_aerodynamic_shape"
+  ],
+  "2008 Lamborghini Reventon Coupe": [
+    "aerodynamic_design_features",
+    "elegant_body_lines",
+    "sleek_body_shape"
+  ],
+  "2012 BMW M3 Coupe": [
+    "muscular_hood_scoops",
+    "aggressive_front_hood",
+    "sporty_curved_hood"
+  ],
+  "2012 Honda Accord Sedan": [
+    "fluid_side_proportions",
+    "large_side_windows",
+    "long_wheelbase_proportions"
+  ],
+  "2012 Suzuki SX4 Hatchback": [
+    "hatchback_style",
+    "compact_sedan_style",
+    "distinctive_grille_style"
+  ],
+  "2011 Lincoln Town Car Sedan": [
+    "classic_sedan_design",
+    "elegant_sedan_silhouette",
+    "chrome_grille_design"
+  ],
+  "2012 Jeep Liberty SUV": [
+    "rugged_off_road_look",
+    "off_road_capability",
+    "all_terrain_capability"
+  ],
+  "2012 Hyundai Azera Sedan": [
+    "bold_front_grille",
+    "rugged_front_grille",
+    "bold_front_fascia"
+  ],
+  "2012 GMC Acadia SUV": [
+    "large_family_size",
+    "large_wheel_design",
+    "large_side_windows"
+  ],
+  "2012 Infiniti G Coupe IPL": [
+    "luxurious_coupe_lines",
+    "sporty_coupe_profile",
+    "luxurious_four_door"
+  ],
+  "2012 Ferrari 458 Italia Convertible": [
+    "iconic_ferrari_styling",
+    "iconic_front_scoops",
+    "iconic_bullet_shape"
+  ],
+  "2007 Buick Rainier SUV": [
+    "chrome_window_trim",
+    "comfortable_seating_capacity",
+    "graceful_body_curves"
+  ],
+  "2012 BMW ActiveHybrid 5 Sedan": [
+    "innovative_interior_technology",
+    "efficient_aerodynamics",
+    "streamlined_hatchback_design"
+  ],
+  "2011 Mazda Tribute SUV": [
+    "compact_suv_profile",
+    "compact_sedan_style",
+    "modern_sedan_profile"
+  ],
+  "2010 HUMMER H3T Crew Cab": [
+    "boxy_truck_design",
+    "off_road_capability",
+    "all_terrain_capability"
+  ],
+  "2012 Buick Regal GS": [
+    "sculpted_hood_lines",
+    "dynamic_side_proportions",
+    "bold_front_grille"
+  ],
+  "2012 Mercedes-Benz S-Class Sedan": [
+    "sleek_rear_haunches",
+    "advanced_technology_features",
+    "luxurious_exterior_design"
+  ],
+  "2012 Chevrolet Tahoe Hybrid SUV": [
+    "bold_front_fascia",
+    "distinctive_front_fascia",
+    "distinctive_front_air_intakes"
+  ],
+  "2012 Aston Martin V8 Vantage Convertible": [
+    "sleek_convertible_form",
+    "aggressive_side_profile",
+    "sleek_body_shape"
+  ],
+  "2012 Ford E-Series Wagon Van": [
+    "large_van_structure",
+    "large_wheel_design",
+    "boxy_van_shape"
+  ],
+  "2009 Chrysler Aspen SUV": [
+    "chrome_grille_design",
+    "signature_grille_design",
+    "chrome_grille_design"
+  ],
+  "2012 Hyundai Sonata Hybrid Sedan": [
+    "eco_friendly_badging",
+    "sleek_aerodynamic_shape",
+    "sleek_body_shape"
+  ],
+  "1993 Mercedes-Benz 300-Class Convertible": [
+    "elegant_wood_trim",
+    "elegant_soft_top",
+    "colorful_soft_top"
+  ],
+  "2012 Ford F-450 Super Duty Crew Cab": [
+    "rugged_truck_body",
+    "robust_truck_frame",
+    "robust_rear_bumper"
+  ],
+  "2012 Hyundai Veracruz SUV": [
+    "high_seating_position",
+    "high_ride_height",
+    "spacious_interior_seating"
+  ],
+  "2009 Spyker C8 Coupe": [
+    "asymmetrical_body_style",
+    "muscular_body_style",
+    "hatchback_style"
+  ],
+  "2009 HUMMER H2 SUT Crew Cab": [
+    "boxy_truck_design",
+    "chrome_grille_design",
+    "curved_roof_design"
+  ],
+  "2012 Buick Verano Sedan": [
+    "plush_seating_materials",
+    "bold_front_grille",
+    "rugged_front_grille"
+  ],
+  "2012 Chevrolet Silverado 1500 Extended Cab": [
+    "elegant_body_lines",
+    "muscular_body_style",
+    "sleek_body_shape"
+  ],
+  "2012 Dodge Durango SUV": [
+    "strong_road_presence",
+    "roomy_second_row",
+    "off_road_capability"
+  ],
+  "2009 Bentley Arnage Sedan": [
+    "opulent_exterior_finish",
+    "colorful_exterior_options",
+    "luxurious_exterior_design"
+  ],
+  "2012 Dodge Charger Sedan": [
+    "aggressive_front_hood",
+    "retro_front_design",
+    "chrome_grille_design"
+  ],
+  "2012 BMW 3 Series Wagon": [
+    "muscular_wagon_shape",
+    "sleek_body_shape",
+    "angular_headlight_shape"
+  ],
+  "2012 Scion xD Hatchback": [
+    "compact_hatchback_form",
+    "youthful_design_elements",
+    "hatchback_style"
+  ],
+  "2012 Toyota Sequoia SUV": [
+    "large_grille_area",
+    "chrome_grille_design",
+    "distinctive_grille_style"
+  ],
+  "2012 Mercedes-Benz C-Class Sedan": [
+    "streamlined_aerodynamics",
+    "modern_sedan_profile",
+    "compact_sedan_style"
+  ]
+}

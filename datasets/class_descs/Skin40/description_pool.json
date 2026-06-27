@@ -1,0 +1,202 @@
+{
+  "Tinea Versicolor": [
+    "hypopigmented_patches",
+    "fine_scaling_surface",
+    "irregular_borders"
+  ],
+  "Steroid Use/abusemisuse Dermatitis": [
+    "thin_shiny_skin",
+    "red_scaly_plaques",
+    "atrophic_fissures"
+  ],
+  "Tinea Manus": [
+    "dry_cracked_palms",
+    "white_scaly_rash",
+    "ring_shaped_lesions"
+  ],
+  "Stasis Edema": [
+    "swollen_lower_legs",
+    "brown_skin_discoloration",
+    "shiny_taut_surface"
+  ],
+  "Pyogenic Granuloma": [
+    "red_smooth_nodule",
+    "shiny_dome_shape",
+    "vascular_bright_lesion"
+  ],
+  "Keratoacanthoma": [
+    "crusted_volcanic_crater",
+    "flesh_colored_bump",
+    "central_keratin_core"
+  ],
+  "Allergic Contact Dermatitis": [
+    "red_inflamed_patches",
+    "blistering_raised_rash",
+    "hypopigmented_patches"
+  ],
+  "Sebaceous Gland Hyperplasia": [
+    "yellow_waxy_bumps",
+    "umbilicated_central_depression",
+    "clustered_dome_papules"
+  ],
+  "Actinic Solar Damage(Pigmentation)": [
+    "rough_scaly_patches",
+    "blotchy_brown_spots",
+    "crusty_skin_surface"
+  ],
+  "Tinea Pedis": [
+    "flaky_white_skin",
+    "cracked_heel_soles",
+    "thin_shiny_skin"
+  ],
+  "Nevus Incipiens": [
+    "small_dark_spots",
+    "smooth_round_moles",
+    "even_colored_lesions"
+  ],
+  "Congenital Nevus": [
+    "large_dark_patches",
+    "hairy_skin_areas",
+    "irregular_bordered_moles"
+  ],
+  "Stasis Ulcer": [
+    "inflamed_red_skin",
+    "irregular_wound_edges",
+    "red_inflamed_patches"
+  ],
+  "Dermatofibroma": [
+    "raised_firm_nodule",
+    "brownish_flat_patch",
+    "red_smooth_nodule"
+  ],
+  "Actinic Solar Damage(Actinic Keratosis)": [
+    "scaly_rough_patch",
+    "rough_scaly_patches",
+    "red_scaly_plaques"
+  ],
+  "Onychomycosis": [
+    "thickened_discolored_nail",
+    "brittle_crumbling_edges",
+    "yellowish_nail_streaks"
+  ],
+  "Ichthyosis": [
+    "scaly_skin_texture",
+    "dry_rough_surface",
+    "thin_shiny_skin"
+  ],
+  "Rhinophyma": [
+    "bulbous_nose_shape",
+    "reddened_skin_tone",
+    "enlarged_nasal_tissue"
+  ],
+  "Compound Nevus": [
+    "dark_pigmented_spot",
+    "raised_skin_bump",
+    "small_dark_spots"
+  ],
+  "Blue Nevus": [
+    "blue_tinted_spot",
+    "small_rounded_lump",
+    "deep_pigment_hue"
+  ],
+  "Actinic Solar Damage(Solar Elastosis)": [
+    "deep_wrinkled_lines",
+    "yellowish_tissue_patch",
+    "scaly_skin_texture"
+  ],
+  "Inverse Psoriasis": [
+    "red_scaly_plaques",
+    "red_smooth_nodule",
+    "white_scaly_rash"
+  ],
+  "Skin Tag": [
+    "soft_fleshy_growth",
+    "small_pendulous_nodule",
+    "oval_skin_protrusion"
+  ],
+  "Malignant Melanoma": [
+    "irregular_dark_boundary",
+    "asymmetric_color_spread",
+    "varied_pigment_pattern"
+  ],
+  "Stasis Dermatitis": [
+    "brownish_discoloration_skin",
+    "inflamed_ankle_area",
+    "brown_skin_discoloration"
+  ],
+  "Eczema": [
+    "itchy_irritated_patches",
+    "red_inflamed_patches",
+    "hypopigmented_patches"
+  ],
+  "Perioral Dermatitis": [
+    "small_red_bumps",
+    "scaly_perioral_area",
+    "irritated_mouth_rash"
+  ],
+  "Cutaneous Horn": [
+    "conical_keratin_growth",
+    "hard_pointed_protrusion",
+    "thickened_horny_surface"
+  ],
+  "Tinea Corporis": [
+    "red_itchy_ring",
+    "circular_bumpy_edge",
+    "scaly_rough_patch"
+  ],
+  "Basal Cell Carcinoma": [
+    "pearly_white_bump",
+    "waxy_translucent_nodule",
+    "ulcerated_crusty_lesion"
+  ],
+  "Dyshidrosiform Eczema": [
+    "small_itchy_blisters",
+    "clustered_clear_vesicles",
+    "small_dark_spots"
+  ],
+  "Epidermoid Cyst": [
+    "white_cheesy_material",
+    "smooth_round_moles",
+    "red_smooth_nodule"
+  ],
+  "Tinea Faciale": [
+    "circular_rash_borders",
+    "scaly_rough_patch",
+    "irregular_borders"
+  ],
+  "Acne Vulgaris": [
+    "inflamed_pore_clusters",
+    "inflamed_red_skin",
+    "small_red_bumps"
+  ],
+  "Psoriasis": [
+    "thick_flaky_patches",
+    "red_scaly_plaques",
+    "white_scaly_rash"
+  ],
+  "Seborrheic Keratosis": [
+    "waxy_brown_growth",
+    "rough_skin_surfaces",
+    "brown_skin_discoloration"
+  ],
+  "Alopecia Areata": [
+    "smooth_bald_patches",
+    "defined_hairless_areas",
+    "circular_scalp_gaps"
+  ],
+  "Seborrheic Dermatitis": [
+    "erythematous_greasy_patches",
+    "yellowish_crusty_flakes",
+    "scaly_skin_texture"
+  ],
+  "Pityrosporum Folliculitis": [
+    "inflamed_hair_follicles",
+    "clustered_pustular_lesions",
+    "small_itchy_blisters"
+  ],
+  "Dysplastic Nevus": [
+    "irregular_pigment_distribution",
+    "asymmetric_mole_shape",
+    "blurred_border_edges"
+  ]
+}

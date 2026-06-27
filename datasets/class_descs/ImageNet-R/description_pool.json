@@ -1,0 +1,1002 @@
+{
+  "submarine": [
+    "steel_hull_body",
+    "periscope_tower",
+    "propeller_tail"
+  ],
+  "fire engine": [
+    "red_paint_finish",
+    "extendable_ladder",
+    "flashing_light_bar"
+  ],
+  "golden retriever": [
+    "wavy_golden_fur",
+    "friendly_face_expression",
+    "floppy_ears"
+  ],
+  "vulture": [
+    "bald_head_feathers",
+    "sharp_beak_curve",
+    "wide_wingspan_open"
+  ],
+  "broccoli": [
+    "green_florets_bunch",
+    "thick_stem_base",
+    "crunchy_texture_surface"
+  ],
+  "skunk": [
+    "black_white_stripes",
+    "bushy_tail_fluff",
+    "small_round_ears"
+  ],
+  "tractor": [
+    "large_rubber_tires",
+    "front_loader_attachment",
+    "bright_red_color"
+  ],
+  "gazelle": [
+    "slender_body_shape",
+    "long_legs_running",
+    "curved_horns_top"
+  ],
+  "beagle": [
+    "short_brown_fur",
+    "long_floppy_ears",
+    "curious_face_expression"
+  ],
+  "saxophone": [
+    "golden_metal_body",
+    "curved_shape_design",
+    "finger_holes_keys"
+  ],
+  "banana": [
+    "yellow_curved_shape",
+    "smooth_skin_texture",
+    "green_stem_top"
+  ],
+  "hyena": [
+    "spotted_fur_pattern",
+    "strong_jaw_structure",
+    "pointed_ears_top"
+  ],
+  "scorpion": [
+    "curved_tail_stinger",
+    "pinching_claws_front",
+    "chitinous_exoskeleton"
+  ],
+  "strawberry": [
+    "red_bumpy_surface",
+    "green_leaves_crown",
+    "small_seed_spots"
+  ],
+  "jellyfish": [
+    "transparent_bell_shape",
+    "long_tentacles_hanging",
+    "colorful_ombre_tints"
+  ],
+  "newt": [
+    "smooth_skin_surface",
+    "long_tail_structure",
+    "bright_color_pattern"
+  ],
+  "military aircraft": [
+    "camouflage_paint_scheme",
+    "swept_wing_design",
+    "propeller_engines"
+  ],
+  "koala": [
+    "round_face_nose",
+    "gray_fur_texture",
+    "large_ears_round"
+  ],
+  "standard poodle": [
+    "curly_hair_coat",
+    "elegant_stance_posture",
+    "long_leg_structure"
+  ],
+  "Granny Smith": [
+    "bright_green_skin",
+    "crisp_firm_texture",
+    "round_shape_body"
+  ],
+  "bison": [
+    "large_humped_back",
+    "large_rubber_tires",
+    "large_ears_round"
+  ],
+  "goldfinch": [
+    "bright_yellow_feathers",
+    "short_conical_bill",
+    "black_wing_tips"
+  ],
+  "cockroach": [
+    "oval_flat_body",
+    "long_threadlike_antennas",
+    "dark_brown_color"
+  ],
+  "grey whale": [
+    "massive_grey_body",
+    "broad_flat_head",
+    "steel_hull_body"
+  ],
+  "accordion": [
+    "colorful_folding_bellows",
+    "button_key_layout",
+    "metallic_sound_holes"
+  ],
+  "bloodhound": [
+    "wrinkled_face",
+    "sensitive_nose",
+    "long_floppy_ears"
+  ],
+  "llama": [
+    "long_necked_body",
+    "thick_wool_coat",
+    "curled_tail"
+  ],
+  "goldfish": [
+    "bright_orange_scales",
+    "long_fins",
+    "bright_red_color"
+  ],
+  "orangutan": [
+    "suspended_hanging_posture",
+    "prominent_face",
+    "curly_hair_coat"
+  ],
+  "hotdog": [
+    "long_bun_shape",
+    "grilled_sausage",
+    "yellow_mustard_top"
+  ],
+  "monarch butterfly": [
+    "orange_black_wing_patterns",
+    "delicate_translucent_wings",
+    "thin_body"
+  ],
+  "french bulldog": [
+    "short_flat_muzzle",
+    "bat_like_ears",
+    "muscular_build"
+  ],
+  "hen": [
+    "feathered_body",
+    "small_red_comb",
+    "rounded_belly"
+  ],
+  "hammerhead": [
+    "flattened_head_shape",
+    "wide_set_eyes",
+    "long_sleek_body"
+  ],
+  "barn": [
+    "red_wooden_structure",
+    "sloped_roof_design",
+    "large_double_doors"
+  ],
+  "violin": [
+    "curved_wooden_body",
+    "four_strings",
+    "f-holes_on_body"
+  ],
+  "guinea pig": [
+    "short_hairy_body",
+    "rounded_face",
+    "steel_hull_body"
+  ],
+  "ladybug": [
+    "red_shell_with_spots",
+    "rounded_shape",
+    "black_antennae"
+  ],
+  "gibbon": [
+    "long_arm_span",
+    "light_fur_color",
+    "swinging_posture"
+  ],
+  "great white shark": [
+    "conical_snout_shape",
+    "large_dorsal_fin",
+    "powerful_tail"
+  ],
+  "lab coat": [
+    "white_cloth_material",
+    "buttoned_front_design",
+    "pocketed_side_area"
+  ],
+  "tarantula": [
+    "furry_black_body",
+    "large_spider_fangs",
+    "thin_body"
+  ],
+  "hammer": [
+    "metal_striking_head",
+    "wooden_handle_grip",
+    "heavy_tool_weight"
+  ],
+  "carousel": [
+    "colorful_horse_figures",
+    "circular_rotating_platform",
+    "bright_light_decoration"
+  ],
+  "tabby cat": [
+    "green_eyes_color",
+    "short_tail_length",
+    "spotted_fur_pattern"
+  ],
+  "duck": [
+    "webbed_feet_shape",
+    "rounded_body_form",
+    "colorful_feather_plumage"
+  ],
+  "vase": [
+    "ceramic_material_surface",
+    "narrow_neck_shape",
+    "decorative_paint_design"
+  ],
+  "collie": [
+    "long_furry_coat",
+    "intelligent_eye_expression",
+    "long_fins"
+  ],
+  "baseball player": [
+    "batting_helmet_style",
+    "spiked_cleats_design",
+    "team_uniform_colors"
+  ],
+  "basketball": [
+    "black_stripe_pattern",
+    "textured_surface_feel",
+    "round_shape_body"
+  ],
+  "dragonfly": [
+    "large_compound_eyes",
+    "delicate_translucent_wings",
+    "strong_jaw_structure"
+  ],
+  "american egret": [
+    "long_neck_length",
+    "white_feather_color",
+    "long_fins"
+  ],
+  "meerkat": [
+    "standing_posture_position",
+    "large_eyes_shape",
+    "swinging_posture"
+  ],
+  "gorilla": [
+    "broad_shoulder_width",
+    "prominent_chin_structure",
+    "broad_flat_head"
+  ],
+  "porcupine": [
+    "spiky_quills_texture",
+    "small_black_nose",
+    "crunchy_texture_surface"
+  ],
+  "peacock": [
+    "vibrant_tail_feathers",
+    "iridescent_color_patterns",
+    "long_neck_length"
+  ],
+  "electric guitar": [
+    "metal_strings_surface",
+    "slender_body_shape",
+    "curved_shape_design"
+  ],
+  "baboon": [
+    "short_hair_length",
+    "prominent_red_rear",
+    "sharp_canine_teeth"
+  ],
+  "bagel": [
+    "circular_shape_form",
+    "golden_brown_crust",
+    "chewy_interior_texture"
+  ],
+  "killer whale": [
+    "black_white_color_pattern",
+    "large_streamlined_body",
+    "black_white_stripes"
+  ],
+  "axolotl": [
+    "pink_gills_fins",
+    "long_fins",
+    "fins_at_base"
+  ],
+  "acorn": [
+    "brown_oval_nut",
+    "rough_surface_shell",
+    "short_brown_fur"
+  ],
+  "harmonica": [
+    "small_metal_instrument",
+    "rectangular_shape",
+    "multiple_reed_holes"
+  ],
+  "bald eagle": [
+    "golden_beak_claws",
+    "bald_head_feathers",
+    "black_white_stripes"
+  ],
+  "binoculars": [
+    "dual_lens_tubes",
+    "adjustable_focus_knob",
+    "rubberized_grip_surface"
+  ],
+  "stingray": [
+    "slender_body_shape",
+    "oval_flat_body",
+    "thin_body"
+  ],
+  "snail": [
+    "spiral_shell_structure",
+    "soft_body_mantle",
+    "tentacle_eyes_position"
+  ],
+  "german shepherd dog": [
+    "black_tan_coat",
+    "upright_ears_shape",
+    "black_antennae"
+  ],
+  "parachute": [
+    "colorful_canopy_fabric",
+    "attached_harness_straps",
+    "colorful_ombre_tints"
+  ],
+  "trombone": [
+    "long_curved_tube",
+    "sliding_rod_mechanism",
+    "brass_finish_surface"
+  ],
+  "pineapple": [
+    "yellow_bumpy_skin",
+    "tropical_fruit_shape",
+    "green_leaves_crown"
+  ],
+  "rottweiler": [
+    "muscular_body_structure",
+    "short_brown_fur",
+    "black_antennae"
+  ],
+  "scottish terrier": [
+    "long_beard_hair",
+    "short_sturdy_frame",
+    "long_fins"
+  ],
+  "italian greyhound": [
+    "long_narrow_head",
+    "slender_body_shape",
+    "long_fins"
+  ],
+  "hippopotamus": [
+    "big_mouth_opening",
+    "short_stumpy_legs",
+    "rounded_body_form"
+  ],
+  "dalmatian": [
+    "spotted_fur_pattern",
+    "black_antennae",
+    "wavy_golden_fur"
+  ],
+  "missile": [
+    "fins_at_base",
+    "metallic_surface_finish",
+    "slender_body_shape"
+  ],
+  "tank": [
+    "heavy_armored_vehicle",
+    "rotating_cannon_turret",
+    "treaded_tracks_base"
+  ],
+  "burrito": [
+    "wrapped_flatbread_roll",
+    "filled_with_ingredients",
+    "cylindrical_shape"
+  ],
+  "border collie": [
+    "intelligent_expressive_eyes",
+    "medium_build_structure",
+    "black_white_stripes"
+  ],
+  "pomegranate": [
+    "juicy_seeds_inside",
+    "red_bumpy_surface",
+    "yellow_bumpy_skin"
+  ],
+  "tree frog": [
+    "sticky_pads_fingers",
+    "bright_green_skin",
+    "green_florets_bunch"
+  ],
+  "lemon": [
+    "yellow_curved_shape",
+    "rounded_shape",
+    "rectangular_shape"
+  ],
+  "polar bear": [
+    "large_paws_size",
+    "long_furry_coat",
+    "black_white_stripes"
+  ],
+  "pembroke welsh corgi": [
+    "fluffy_tail_curled",
+    "short_hairy_body",
+    "short_stumpy_legs"
+  ],
+  "cheeseburger": [
+    "toasted_bun_top",
+    "melted_cheese_layer",
+    "fresh_vegetable_toppings"
+  ],
+  "cobra": [
+    "flattened_head_shape",
+    "rounded_shape",
+    "rectangular_shape"
+  ],
+  "flute": [
+    "finger_holes_evenly_spaced",
+    "cylindrical_shape",
+    "long_bun_shape"
+  ],
+  "eel": [
+    "slender_body_shape",
+    "round_shape_body",
+    "thin_body"
+  ],
+  "cowboy hat": [
+    "wide_brim_shape",
+    "high_crown_top",
+    "straw_material_texture"
+  ],
+  "fox squirrel": [
+    "small_paws_size",
+    "short_tail_length",
+    "propeller_tail"
+  ],
+  "bathtub": [
+    "slippery_surface_texture",
+    "standing_on_floor",
+    "curved_shape_design"
+  ],
+  "bucket": [
+    "round_open_top",
+    "handle_on_side",
+    "wide_wingspan_open"
+  ],
+  "labrador retriever": [
+    "curly_hair_coat",
+    "short_hair_length",
+    "thick_wool_coat"
+  ],
+  "tennis ball": [
+    "fuzzy_surface_texture",
+    "bright_green_skin",
+    "bright_red_color"
+  ],
+  "afghan hound": [
+    "long_beard_hair",
+    "long_fins",
+    "long_legs_running"
+  ],
+  "lawn mower": [
+    "metal_blade_bottom",
+    "wheeled_base_structure",
+    "handle_for_pushing"
+  ],
+  "chow chow": [
+    "blue_black_tongue",
+    "fluffy_face_shape",
+    "long_furry_coat"
+  ],
+  "hatchet": [
+    "sharp_blade_edge",
+    "metallic_head_material",
+    "sharp_beak_curve"
+  ],
+  "pomeranian": [
+    "fluffy_orange_fur",
+    "small_size_body",
+    "wavy_golden_fur"
+  ],
+  "gasmask": [
+    "black_rubber_mask",
+    "wide_filter_canister",
+    "adjustable_straps"
+  ],
+  "whippet": [
+    "sleek_bodily_shape",
+    "short_smooth_coat",
+    "rounded_shape"
+  ],
+  "cheetah": [
+    "black_teardrop_marks",
+    "spotted_fur_pattern",
+    "black_antennae"
+  ],
+  "starfish": [
+    "five_pointed_shape",
+    "colorful_radial_symmetry",
+    "rounded_shape"
+  ],
+  "pickup truck": [
+    "open_flat_bed",
+    "heavy_duty_tires",
+    "large_streamlined_body"
+  ],
+  "wood rabbit": [
+    "short_brown_fur",
+    "wavy_golden_fur",
+    "spotted_fur_pattern"
+  ],
+  "red fox": [
+    "fluffy_white_tipped_ears",
+    "bushy_tail_fluff",
+    "propeller_tail"
+  ],
+  "pizza": [
+    "colorful_toppings_array",
+    "golden_brown_crust",
+    "wavy_golden_fur"
+  ],
+  "snow leopard": [
+    "gray_fur_texture",
+    "wavy_golden_fur",
+    "thick_stem_base"
+  ],
+  "hermit crab": [
+    "small_clawed_pincers",
+    "spiral_shell_structure",
+    "rounded_shape"
+  ],
+  "ambulance": [
+    "bright_red_color",
+    "bright_color_pattern",
+    "red_paint_finish"
+  ],
+  "harp": [
+    "tall_vertical_frame",
+    "curved_strings_array",
+    "wooden_base_stand"
+  ],
+  "pig": [
+    "pink_curly_tail",
+    "large_flat_snout",
+    "propeller_tail"
+  ],
+  "grasshopper": [
+    "long_legs_running",
+    "long_fins",
+    "fins_at_base"
+  ],
+  "toy poodle": [
+    "curly_white_fur",
+    "wavy_golden_fur",
+    "black_white_stripes"
+  ],
+  "west highland white terrier": [
+    "fluffy_orange_fur",
+    "wavy_golden_fur",
+    "black_white_stripes"
+  ],
+  "mushroom": [
+    "rounded_top_cap",
+    "rounded_belly",
+    "rounded_face"
+  ],
+  "revolver": [
+    "metallic_cylinder_shape",
+    "curved_grip_handle",
+    "trigger_mechanism"
+  ],
+  "timber wolf": [
+    "gray_fur_texture",
+    "wavy_golden_fur",
+    "thick_stem_base"
+  ],
+  "hummingbird": [
+    "small_flapping_wings",
+    "white_feather_color",
+    "iridescent_color_patterns"
+  ],
+  "centipede": [
+    "multiple_jointed_legs",
+    "long_necked_body",
+    "long_sleek_body"
+  ],
+  "puffer fish": [
+    "inflated_spiny_body",
+    "thin_body",
+    "feathered_body"
+  ],
+  "panda": [
+    "bamboo_eating_pose",
+    "black_white_stripes",
+    "black_white_color_pattern"
+  ],
+  "boxer": [
+    "defined_muzzle_shape",
+    "muscular_build",
+    "muscular_body_structure"
+  ],
+  "broom": [
+    "long_stick_handle",
+    "bristle_head_design",
+    "cleaning_tool"
+  ],
+  "rugby ball": [
+    "white_stitching_lines",
+    "round_shape_body",
+    "slender_body_shape"
+  ],
+  "mailbox": [
+    "red_flag_indicator",
+    "rectangular_shape",
+    "red_paint_finish"
+  ],
+  "clown fish": [
+    "curved_fins",
+    "bright_orange_scales",
+    "bright_red_color"
+  ],
+  "cabbage": [
+    "green_leafy_layers",
+    "crinkled_surface",
+    "green_florets_bunch"
+  ],
+  "cannon": [
+    "cylindrical_barrel",
+    "metallic_muzzle",
+    "cylindrical_shape"
+  ],
+  "steam locomotive": [
+    "large_metal_engine",
+    "smokestack_releasing_smoke",
+    "large_rubber_tires"
+  ],
+  "ant": [
+    "thin_waist_segment",
+    "long_antennae",
+    "furry_black_body"
+  ],
+  "fly": [
+    "small_flying_insect",
+    "transparent_wings",
+    "small_round_ears"
+  ],
+  "saint bernard": [
+    "short_brown_fur",
+    "wavy_golden_fur",
+    "spotted_fur_pattern"
+  ],
+  "iguana": [
+    "spiny_back_ridge",
+    "bright_green_skin",
+    "green_florets_bunch"
+  ],
+  "spider web": [
+    "delicate_silk_threads",
+    "glimmering_dewdrops",
+    "delicate_translucent_wings"
+  ],
+  "African chameleon": [
+    "color_changing_skin",
+    "bulging_eyes",
+    "bright_red_color"
+  ],
+  "wine bottle": [
+    "green_glass_shape",
+    "corkscrew_top",
+    "rounded_shape"
+  ],
+  "pug": [
+    "wrinkled_face",
+    "prominent_face",
+    "rounded_face"
+  ],
+  "wheelbarrow": [
+    "open_front_container",
+    "two_wheeled_design",
+    "metal_handlebar"
+  ],
+  "ostrich": [
+    "feathered_wings",
+    "long_necked_body",
+    "feathered_body"
+  ],
+  "toucan": [
+    "colorful_bill",
+    "black_and_yellow",
+    "bright_feathered"
+  ],
+  "jeep": [
+    "four_wheel_drive",
+    "rugged_design",
+    "four_strings"
+  ],
+  "beer glass": [
+    "frosted_surface",
+    "golden_liquid",
+    "bubbly_top"
+  ],
+  "chihuahua": [
+    "small_size_body",
+    "small_paws_size",
+    "small_round_ears"
+  ],
+  "basset hound": [
+    "droopy_face",
+    "long_floppy_ears",
+    "wrinkled_face"
+  ],
+  "bee": [
+    "striped_body",
+    "tiny_wings",
+    "buzzing_insect"
+  ],
+  "cauldron": [
+    "black_cast_iron",
+    "round_bottom",
+    "thick_walls"
+  ],
+  "assault rifle": [
+    "black_finish",
+    "long_barrel",
+    "modular_design"
+  ],
+  "lorikeet": [
+    "bright_colors",
+    "curved_bill",
+    "bright_red_color"
+  ],
+  "flamingo": [
+    "pink_feathers",
+    "curved_neck",
+    "long_legs_running"
+  ],
+  "cocker spaniels": [
+    "wavy_hair",
+    "long_floppy_ears",
+    "floppy_ears"
+  ],
+  "sea lion": [
+    "thick_fur",
+    "flippered_limbs",
+    "playful_face"
+  ],
+  "soccer ball": [
+    "black_white_color_pattern",
+    "black_white_stripes",
+    "black_antennae"
+  ],
+  "volcano": [
+    "cone_shape",
+    "lava_flow",
+    "smoking_crater"
+  ],
+  "canoe": [
+    "narrow_body",
+    "paddle_ready",
+    "lightweight_material"
+  ],
+  "mitten": [
+    "knitted_texture",
+    "thumb_separate",
+    "cozy_fit"
+  ],
+  "shield": [
+    "ornate_design",
+    "circular_shape_form",
+    "rounded_shape"
+  ],
+  "mantis": [
+    "green_body",
+    "triangular_head",
+    "thin_body"
+  ],
+  "tiger": [
+    "orange_stripes",
+    "fierce_eyes",
+    "black_white_stripes"
+  ],
+  "goose": [
+    "white_feathers",
+    "webbed_feet_shape",
+    "steel_hull_body"
+  ],
+  "king penguin": [
+    "orange_beak",
+    "tuxedo_plumage",
+    "tall_stature"
+  ],
+  "cucumber": [
+    "smooth_skin_texture",
+    "smooth_skin_surface",
+    "bright_green_skin"
+  ],
+  "lipstick": [
+    "shiny_finish",
+    "bright_red_color",
+    "black_finish"
+  ],
+  "pelican": [
+    "large_bill",
+    "white_body",
+    "long_wingspan"
+  ],
+  "candle": [
+    "tapered_shape",
+    "soft_glow",
+    "wax_surface"
+  ],
+  "scuba diver": [
+    "diving_gear",
+    "underwater_visibilty",
+    "colorful_fins"
+  ],
+  "pirate ship": [
+    "tattered_sails",
+    "wooden_hull",
+    "skull_flag"
+  ],
+  "joystick": [
+    "ergonomic_design",
+    "colorful_buttons",
+    "dual_stick_control"
+  ],
+  "scarf": [
+    "knitted_pattern",
+    "soft_texture",
+    "knitted_texture"
+  ],
+  "grand piano": [
+    "88_keys",
+    "black_finish",
+    "black_antennae"
+  ],
+  "lighthouse": [
+    "tall_structure",
+    "beacon_light",
+    "strong_jaw_structure"
+  ],
+  "guillotine": [
+    "wooden_frame",
+    "suspension_mechanism",
+    "sharp_blade_edge"
+  ],
+  "badger": [
+    "striped_fur",
+    "stocky_body",
+    "striped_body"
+  ],
+  "yorkshire terrier": [
+    "perky_ears",
+    "long_beard_hair",
+    "floppy_ears"
+  ],
+  "black swan": [
+    "black_feathers",
+    "red_bill",
+    "black_antennae"
+  ],
+  "sandal": [
+    "open_toe_design",
+    "flat_soles",
+    "strappy_style"
+  ],
+  "birdhouse": [
+    "small_entry_hole",
+    "roofed_design",
+    "red_wooden_structure"
+  ],
+  "weimaraner": [
+    "short_smooth_coat",
+    "short_brown_fur",
+    "gray_fur_texture"
+  ],
+  "space shuttle": [
+    "rocket_booster",
+    "orbital_shape",
+    "white_exterior"
+  ],
+  "husky": [
+    "piercing_blue_eyes",
+    "thick_wool_coat",
+    "thick_walls"
+  ],
+  "junco": [
+    "dark_gray_back",
+    "white_outer_tail",
+    "gray_fur_texture"
+  ],
+  "backpack": [
+    "padded_shoulder_straps",
+    "large_main_compartment",
+    "front_zippered_pocket"
+  ],
+  "lion": [
+    "majestic_mane",
+    "powerful_build",
+    "wavy_golden_fur"
+  ],
+  "mobile phone": [
+    "sleek_touchscreen_display",
+    "shiny_metal_frame",
+    "compact_lightweight_design"
+  ],
+  "school bus": [
+    "large_black_windows",
+    "stop_sign_arm",
+    "bright_yellow_feathers"
+  ],
+  "chimpanzee": [
+    "expressive_face",
+    "long_swinging_arms",
+    "short_hairy_body"
+  ],
+  "castle": [
+    "tall_stone_towers",
+    "large_arched_gates",
+    "surrounding_moat"
+  ],
+  "pretzel": [
+    "twisted_dough_shape",
+    "sprinkled_coarse_salt",
+    "rounded_shape"
+  ],
+  "bow tie": [
+    "neat_fabric_knot",
+    "colorful_patterned_design",
+    "adjustable_strap"
+  ],
+  "boston terrier": [
+    "short_flat_muzzle",
+    "metallic_muzzle",
+    "flat_soles"
+  ],
+  "leopard": [
+    "golden_yellow_color",
+    "spotted_fur_pattern",
+    "thick_fur"
+  ],
+  "beaver": [
+    "flat_broad_tail",
+    "large_front_teeth",
+    "broad_flat_head"
+  ],
+  "shih tzu": [
+    "long_beard_hair",
+    "long_fins",
+    "long_legs_running"
+  ],
+  "zebra": [
+    "short_mane",
+    "black_white_stripes",
+    "majestic_mane"
+  ],
+  "espresso": [
+    "thick_creamy_foamy_layer",
+    "small_ceramic_cup",
+    "dark_brown_color"
+  ],
+  "lobster": [
+    "large_clawed_arms",
+    "red_shell_with_spots",
+    "bright_red_color"
+  ],
+  "ice cream": [
+    "colorful_scoops",
+    "melting_edges",
+    "colorful_bill"
+  ],
+  "bell pepper": [
+    "bright_green_skin",
+    "bright_feathered",
+    "bright_colors"
+  ],
+  "schooner": [
+    "tall_sailing_masts",
+    "wide_boat_hull",
+    "white_canvas_sails"
+  ]
+}

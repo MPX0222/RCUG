@@ -1,0 +1,1002 @@
+{
+  "Magnolia_Warbler": [
+    "yellow_breasted_bird",
+    "white_belly_markings",
+    "black_crown_stripe"
+  ],
+  "Cliff_Swallow": [
+    "blue_back_feathers",
+    "white_belly_patch",
+    "forked_tail_shape"
+  ],
+  "Pied_billed_Grebe": [
+    "stubby_bill_shape",
+    "dark_brown_plumage",
+    "small_body_size"
+  ],
+  "Red_winged_Blackbird": [
+    "red_epaulet_spots",
+    "yellow_shoulders",
+    "black_body_color"
+  ],
+  "Louisiana_Waterthrush": [
+    "white_belly_stripe",
+    "brown_back_pattern",
+    "long_tail_feature"
+  ],
+  "Western_Wood_Pewee": [
+    "gray_brown_color",
+    "short_stout_bill",
+    "white_belly_speckles"
+  ],
+  "Nashville_Warbler": [
+    "olive_green_back",
+    "yellow_underparts",
+    "thin_white_ring"
+  ],
+  "Brown_Pelican": [
+    "large_flat_bill",
+    "brown_feathered_body",
+    "long_neck_shape"
+  ],
+  "Yellow_bellied_Flycatcher": [
+    "yellow_belly_color",
+    "greenish_back_feathers",
+    "small_size_bird"
+  ],
+  "Black_throated_Blue_Warbler": [
+    "black_throat_patch",
+    "blue_gray_back",
+    "white_belly_markings"
+  ],
+  "Downy_Woodpecker": [
+    "white_spotted_back",
+    "short_bill_length",
+    "black_and_white_pattern"
+  ],
+  "Long_tailed_Jaeger": [
+    "long_streamlined_tail",
+    "dark_brown_plumage",
+    "robust_body_shape"
+  ],
+  "Cardinal": [
+    "bright_red_color",
+    "distinctive_crested_head",
+    "thick_stout_bill"
+  ],
+  "Red_bellied_Woodpecker": [
+    "red_crown_color",
+    "black_and_white_back",
+    "zebra_stripe_pattern"
+  ],
+  "Brown_Creeper": [
+    "brown_camouflage_feathers",
+    "curved_climbing_bill",
+    "small_body_size"
+  ],
+  "Rusty_Blackbird": [
+    "rusty_brown_color",
+    "yellow_eyes_feature",
+    "long_thin_body"
+  ],
+  "Prairie_Warbler": [
+    "yellow_underparts",
+    "black_streaked_back",
+    "small_body_size"
+  ],
+  "Shiny_Cowbird": [
+    "iridescent_black_feathers",
+    "long_thin_tail",
+    "robust_body_shape"
+  ],
+  "Rufous_Hummingbird": [
+    "bright_rufous_color",
+    "small_size_bird",
+    "iridescent_throat"
+  ],
+  "Pileated_Woodpecker": [
+    "large_size_bird",
+    "red_crested_head",
+    "black_body_pattern"
+  ],
+  "Ovenbird": [
+    "brown_back_pattern",
+    "blue_back_feathers",
+    "dark_brown_plumage"
+  ],
+  "Parakeet_Auklet": [
+    "colorful_breeding_plumage",
+    "large_facial_patch",
+    "dark_brown_plumage"
+  ],
+  "Pacific_Loon": [
+    "long_neck_shape",
+    "forked_tail_shape",
+    "stubby_bill_shape"
+  ],
+  "Northern_Flicker": [
+    "black_spotted_breast",
+    "long_recurved_bill",
+    "bright_yellow_underwing"
+  ],
+  "Baird_Sparrow": [
+    "streaked_brown_head",
+    "pale_eye_ring",
+    "dark_brown_plumage"
+  ],
+  "Frigatebird": [
+    "long_wingspan",
+    "sharp_pointed_tail",
+    "long_tail_feature"
+  ],
+  "White_Pelican": [
+    "large_white_body",
+    "white_belly_markings",
+    "white_belly_patch"
+  ],
+  "Black_footed_Albatross": [
+    "white_head_and_body",
+    "long_narrow_wings",
+    "dark_brown_plumage"
+  ],
+  "American_Pipit": [
+    "brown_back_pattern",
+    "black_streaked_back",
+    "blue_back_feathers"
+  ],
+  "Yellow_Warbler": [
+    "bright_yellow_plumage",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Hooded_Merganser": [
+    "striped_white_neck",
+    "distinctive_crested_head",
+    "red_crested_head"
+  ],
+  "Glaucous_winged_Gull": [
+    "pale_gray_wings",
+    "white_head_and_body",
+    "gray_brown_color"
+  ],
+  "Crested_Auklet": [
+    "distinctive_crest",
+    "bright_orange_bill",
+    "distinctive_crested_head"
+  ],
+  "Sooty_Albatross": [
+    "dark_sooty_color",
+    "long_wing_span",
+    "dark_brown_plumage"
+  ],
+  "Clay_colored_Sparrow": [
+    "streaked_brown_breast",
+    "gray_brown_color",
+    "rusty_brown_color"
+  ],
+  "Pine_Warbler": [
+    "white_underparts",
+    "yellow_belly_color",
+    "yellow_shoulders"
+  ],
+  "Baltimore_Oriole": [
+    "vivid_orange_color",
+    "black_head_and_wings",
+    "black_body_color"
+  ],
+  "Pied_Kingfisher": [
+    "long_straight_bill",
+    "distinctive_crest",
+    "black_and_white_pattern"
+  ],
+  "Common_Raven": [
+    "iridescent_black_feathers",
+    "black_crown_stripe",
+    "blue_back_feathers"
+  ],
+  "Laysan_Albatross": [
+    "white_body_with_black_wings",
+    "long_wing_span",
+    "yellowish_bill_tip"
+  ],
+  "Green_tailed_Towhee": [
+    "green_tailed_feathers",
+    "blue_back_feathers",
+    "olive_green_back"
+  ],
+  "Spotted_Catbird": [
+    "gray_furred_head",
+    "dark_brown_plumage",
+    "gray_brown_color"
+  ],
+  "Black_Tern": [
+    "slender_hooked_bill",
+    "black_body_color",
+    "black_body_pattern"
+  ],
+  "White_crowned_Sparrow": [
+    "white_head_and_body",
+    "white_underparts",
+    "large_white_body"
+  ],
+  "Blue_Jay": [
+    "white_tipped_wings",
+    "bright_yellow_plumage",
+    "blue_back_feathers"
+  ],
+  "Red_faced_Cormorant": [
+    "red_crested_head",
+    "red_epaulet_spots",
+    "distinctive_crested_head"
+  ],
+  "Palm_Warbler": [
+    "yellow_underparts",
+    "yellow_shoulders",
+    "white_underparts"
+  ],
+  "Evening_Grosbeak": [
+    "bright_yellow_plumage",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Rock_Wren": [
+    "white_spotted_back",
+    "brown_back_pattern",
+    "blue_back_feathers"
+  ],
+  "Field_Sparrow": [
+    "pale_underparts",
+    "streaked_brown_head",
+    "streaked_brown_breast"
+  ],
+  "Western_Meadowlark": [
+    "bright_yellow_plumage",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Yellow_billed_Cuckoo": [
+    "yellow_billed_beak",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Green_Kingfisher": [
+    "green_plumage_body",
+    "dark_brown_plumage",
+    "small_body_size"
+  ],
+  "Whip_poor_Will": [
+    "flat_wide_head",
+    "dark_brown_plumage",
+    "large_flat_bill"
+  ],
+  "Nighthawk": [
+    "brown_camouflage_feathers",
+    "gray_brown_color",
+    "blue_back_feathers"
+  ],
+  "Yellow_breasted_Chat": [
+    "yellow_breasted_bird",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Barn_Swallow": [
+    "blue_back_feathers",
+    "blue_gray_back",
+    "greenish_back_feathers"
+  ],
+  "White_necked_Raven": [
+    "white_necked_plumage",
+    "white_underparts",
+    "white_belly_markings"
+  ],
+  "Tennessee_Warbler": [
+    "greenish_bodily_plumage",
+    "dark_brown_plumage",
+    "greenish_back_feathers"
+  ],
+  "Acadian_Flycatcher": [
+    "brown_back_pattern",
+    "blue_back_feathers",
+    "dark_brown_plumage"
+  ],
+  "Yellow_headed_Blackbird": [
+    "sharp_conical_bill",
+    "bright_yellow_plumage",
+    "bright_yellow_underwing"
+  ],
+  "Common_Yellowthroat": [
+    "black_face_mask",
+    "bright_yellow_underwing",
+    "bright_yellow_plumage"
+  ],
+  "Caspian_Tern": [
+    "large_flat_bill",
+    "stubby_bill_shape",
+    "short_stout_bill"
+  ],
+  "Brewer_Blackbird": [
+    "yellow_eye_patch",
+    "iridescent_black_feathers",
+    "iridescent_throat"
+  ],
+  "Henslow_Sparrow": [
+    "striped_head_pattern",
+    "brown_back_pattern",
+    "black_and_white_pattern"
+  ],
+  "Groove_billed_Ani": [
+    "curved_climbing_bill",
+    "stubby_bill_shape",
+    "short_stout_bill"
+  ],
+  "American_Crow": [
+    "all_black_plumage",
+    "black_crown_stripe",
+    "dark_brown_plumage"
+  ],
+  "Pigeon_Guillemot": [
+    "black_and_white_pattern",
+    "black_and_white_back",
+    "black_body_pattern"
+  ],
+  "Red_eyed_Vireo": [
+    "red_epaulet_spots",
+    "bright_red_color",
+    "red_crown_color"
+  ],
+  "Orange_crowned_Warbler": [
+    "orange_crown_patch",
+    "black_crown_stripe",
+    "white_belly_patch"
+  ],
+  "Red_headed_Woodpecker": [
+    "sturdy_chisel_bill",
+    "red_crested_head",
+    "distinctive_crested_head"
+  ],
+  "Rose_breasted_Grosbeak": [
+    "rose_pink_chest",
+    "yellow_breasted_bird",
+    "white_belly_markings"
+  ],
+  "Eared_Grebe": [
+    "distinctive_eared_plumage",
+    "sharp_black_bill",
+    "distinctive_crest"
+  ],
+  "Northern_Fulmar": [
+    "sturdy_flight_style",
+    "pale_gray_wings",
+    "pale_underparts"
+  ],
+  "Scott_Oriole": [
+    "black_wing_tips",
+    "sharp_conical_bill",
+    "bright_orange_bill"
+  ],
+  "Ivory_Gull": [
+    "white_necked_plumage",
+    "white_underparts",
+    "yellow_underparts"
+  ],
+  "Blue_headed_Vireo": [
+    "blue_gray_back",
+    "gray_furred_head",
+    "blue_back_feathers"
+  ],
+  "Mourning_Warbler": [
+    "olive_green_back",
+    "blue_back_feathers",
+    "greenish_back_feathers"
+  ],
+  "Carolina_Wren": [
+    "brown_feathered_body",
+    "streaked_brown_head",
+    "streaked_brown_breast"
+  ],
+  "Pine_Grosbeak": [
+    "rosy_pink_color",
+    "black_body_color",
+    "gray_brown_color"
+  ],
+  "Bewick_Wren": [
+    "curved_tail_feathers",
+    "small_body_size",
+    "brown_feathered_body"
+  ],
+  "Bobolink": [
+    "bright_yellow_plumage",
+    "bright_yellow_underwing",
+    "yellow_shoulders"
+  ],
+  "Red_cockaded_Woodpecker": [
+    "red_cockade_feathers",
+    "sturdy_climbing_claws",
+    "black_and_white_pattern"
+  ],
+  "Belted_Kingfisher": [
+    "spiky_head_fur",
+    "white_necked_plumage",
+    "distinctive_crested_head"
+  ],
+  "Anna_Hummingbird": [
+    "tiny_size_features",
+    "rose_red_throat",
+    "olive_green_back"
+  ],
+  "Worm_eating_Warbler": [
+    "black_streaked_back",
+    "brown_back_pattern",
+    "black_and_white_back"
+  ],
+  "Painted_Bunting": [
+    "vivid_multicolored_feathers",
+    "bright_blue_head",
+    "blue_back_feathers"
+  ],
+  "Tree_Swallow": [
+    "olive_green_back",
+    "blue_back_feathers",
+    "brown_back_pattern"
+  ],
+  "Geococcyx": [
+    "long_powerful_legs",
+    "long_straight_bill",
+    "long_tail_feature"
+  ],
+  "Bank_Swallow": [
+    "white_throat_band",
+    "small_tapered_tail",
+    "brown_back_pattern"
+  ],
+  "Clark_Nutcracker": [
+    "all_black_plumage",
+    "black_crown_stripe",
+    "dark_brown_plumage"
+  ],
+  "Fox_Sparrow": [
+    "brown_feathered_body",
+    "dark_brown_plumage",
+    "small_body_size"
+  ],
+  "Savannah_Sparrow": [
+    "yellow_breast_streaks",
+    "brown_and_white_stripes",
+    "yellow_shoulders"
+  ],
+  "Western_Grebe": [
+    "black_and_white_pattern",
+    "black_and_white_back",
+    "black_body_pattern"
+  ],
+  "Myrtle_Warbler": [
+    "distinctive_face_pattern",
+    "yellow_eye_patch",
+    "yellow_shoulders"
+  ],
+  "Scissor_tailed_Flycatcher": [
+    "forked_tail_shape",
+    "long_tail_feature",
+    "long_streamlined_tail"
+  ],
+  "Brown_Thrasher": [
+    "brown_streaked_belly",
+    "streaked_brown_head",
+    "streaked_brown_breast"
+  ],
+  "Western_Gull": [
+    "yellow_bill_with_red_spot",
+    "large_wings",
+    "white_necked_plumage"
+  ],
+  "Elegant_Tern": [
+    "large_white_body",
+    "white_head_and_body",
+    "white_body_with_black_wings"
+  ],
+  "Slaty_backed_Gull": [
+    "blue_gray_back",
+    "blue_back_feathers",
+    "greenish_back_feathers"
+  ],
+  "Scarlet_Tanager": [
+    "red_cockade_feathers",
+    "vivid_multicolored_feathers",
+    "blue_back_feathers"
+  ],
+  "Gadwall": [
+    "white_speculum_feather",
+    "dark_brown_plumage",
+    "gray_brown_color"
+  ],
+  "Gray_Kingbird": [
+    "slate_gray_body",
+    "strong_beak_shape",
+    "small_body_size"
+  ],
+  "Red_breasted_Merganser": [
+    "red_breasted_chest",
+    "sharp_sleek_head",
+    "yellow_breasted_bird"
+  ],
+  "Warbling_Vireo": [
+    "white_eye_rings",
+    "soft_yellow_underbelly",
+    "olive_green_back"
+  ],
+  "Mockingbird": [
+    "white_outer_tail",
+    "brown_back_pattern",
+    "gray_brown_color"
+  ],
+  "Pomarine_Jaeger": [
+    "thick_bulky_head",
+    "dark_brown_plumage",
+    "distinctive_crested_head"
+  ],
+  "Cactus_Wren": [
+    "black_streaked_back",
+    "black_and_white_back",
+    "all_black_plumage"
+  ],
+  "Green_Jay": [
+    "green_plumage_body",
+    "small_body_size",
+    "black_body_color"
+  ],
+  "Black_billed_Cuckoo": [
+    "white_under_tail",
+    "dark_brown_plumage",
+    "brown_back_pattern"
+  ],
+  "Black_throated_Sparrow": [
+    "prominent_white_eye",
+    "black_throat_patch",
+    "iridescent_throat"
+  ],
+  "Common_Tern": [
+    "slender_wings_shape",
+    "large_white_body",
+    "white_head_and_body"
+  ],
+  "Orchard_Oriole": [
+    "orange_flight_feathers",
+    "bright_yellow_underwing",
+    "bright_yellow_plumage"
+  ],
+  "Horned_Lark": [
+    "brown_back_pattern",
+    "blue_back_feathers",
+    "dark_brown_plumage"
+  ],
+  "Ruby_throated_Hummingbird": [
+    "olive_green_back",
+    "blue_back_feathers",
+    "brown_back_pattern"
+  ],
+  "Horned_Grebe": [
+    "distinctive_horned_shape",
+    "dark_brown_plumage",
+    "distinctive_crest"
+  ],
+  "American_Three_toed_Woodpecker": [
+    "three_toed_feet",
+    "black_and_white_back",
+    "yellow_breasted_bird"
+  ],
+  "Yellow_throated_Vireo": [
+    "yellow_throat_area",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Green_Violetear": [
+    "green_plumage_body",
+    "iridescent_throat",
+    "black_throat_patch"
+  ],
+  "Chuck_will_Widow": [
+    "brown_camouflage_feathers",
+    "blue_back_feathers",
+    "dark_brown_plumage"
+  ],
+  "Gray_Catbird": [
+    "gray_plumage",
+    "black_cap",
+    "all_black_plumage"
+  ],
+  "Great_Grey_Shrike": [
+    "grey_back",
+    "hooked_beak",
+    "blue_back_feathers"
+  ],
+  "American_Redstart": [
+    "orange_crown_patch",
+    "white_belly_patch",
+    "black_throat_patch"
+  ],
+  "California_Gull": [
+    "grey_wings",
+    "black_ear",
+    "white_head_and_body"
+  ],
+  "Nelson_Sharp_tailed_Sparrow": [
+    "striped_back",
+    "brown_spots",
+    "blue_back_feathers"
+  ],
+  "Bay_breasted_Warbler": [
+    "brown_pectoral",
+    "yellow_flanks",
+    "dark_brown_plumage"
+  ],
+  "Black_capped_Vireo": [
+    "black_cap",
+    "all_black_plumage",
+    "gray_plumage"
+  ],
+  "Loggerhead_Shrike": [
+    "grey_and_black",
+    "stubby_tail",
+    "all_black_plumage"
+  ],
+  "Northern_Waterthrush": [
+    "brown_and_white_stripes",
+    "dark_brown_plumage",
+    "brown_back_pattern"
+  ],
+  "Tree_Sparrow": [
+    "chestnut_crown",
+    "white_cheek",
+    "brown_streaks"
+  ],
+  "Hooded_Warbler": [
+    "black_hood",
+    "yellow_belly_color",
+    "all_black_plumage"
+  ],
+  "Red_legged_Kittiwake": [
+    "red_legs",
+    "grey_wings",
+    "red_epaulet_spots"
+  ],
+  "Ringed_Kingfisher": [
+    "blue_back_feathers",
+    "greenish_back_feathers",
+    "blue_gray_back"
+  ],
+  "Heermann_Gull": [
+    "dark_head",
+    "red_bill",
+    "grey_body"
+  ],
+  "Indigo_Bunting": [
+    "short_tail",
+    "bright_blue_head",
+    "blue_back_feathers"
+  ],
+  "Golden_winged_Warbler": [
+    "golden_wings",
+    "large_wings",
+    "long_narrow_wings"
+  ],
+  "Lazuli_Bunting": [
+    "blue_body",
+    "orange_breast",
+    "blue_back_feathers"
+  ],
+  "Prothonotary_Warbler": [
+    "blue_back_feathers",
+    "greenish_back_feathers",
+    "blue_gray_back"
+  ],
+  "Ring_billed_Gull": [
+    "ringed_bill",
+    "grey_wings",
+    "stubby_bill_shape"
+  ],
+  "House_Sparrow": [
+    "black_chest",
+    "grey_back",
+    "streaked_brown_head"
+  ],
+  "Least_Auklet": [
+    "small_size_bird",
+    "all_black_plumage",
+    "gray_plumage"
+  ],
+  "Brandt_Cormorant": [
+    "brown_feathered_body",
+    "brown_spots",
+    "brown_pectoral"
+  ],
+  "Forsters_Tern": [
+    "white_belly_markings",
+    "white_belly_patch",
+    "white_belly_stripe"
+  ],
+  "Harris_Sparrow": [
+    "black_streaked_back",
+    "black_and_white_back",
+    "all_black_plumage"
+  ],
+  "Least_Flycatcher": [
+    "small_size_bird",
+    "gray_plumage",
+    "all_black_plumage"
+  ],
+  "Vermilion_Flycatcher": [
+    "short_broad_head",
+    "bright_red_color",
+    "dark_head"
+  ],
+  "White_breasted_Kingfisher": [
+    "white_belly_markings",
+    "white_belly_patch",
+    "white_belly_stripe"
+  ],
+  "Seaside_Sparrow": [
+    "striped_back",
+    "brown_back_pattern",
+    "grey_back"
+  ],
+  "Brewer_Sparrow": [
+    "streaked_brown_head",
+    "gray_furred_head",
+    "streaked_brown_breast"
+  ],
+  "Eastern_Towhee": [
+    "red_brown_wings",
+    "black_head_and_wings",
+    "iridescent_black_feathers"
+  ],
+  "Mangrove_Cuckoo": [
+    "curved_tail_feathers",
+    "long_tail_feature",
+    "long_streamlined_tail"
+  ],
+  "Blue_Grosbeak": [
+    "vibrant_blue_color",
+    "brown_wing_bars",
+    "blue_body"
+  ],
+  "Great_Crested_Flycatcher": [
+    "yellow_belly_color",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Cerulean_Warbler": [
+    "sky_blue_color",
+    "blue_body",
+    "blue_back_feathers"
+  ],
+  "Marsh_Wren": [
+    "brown_streaked_belly",
+    "brown_feathered_body",
+    "streaked_brown_head"
+  ],
+  "Vesper_Sparrow": [
+    "white_spotted_back",
+    "brown_back_pattern",
+    "grey_back"
+  ],
+  "Philadelphia_Vireo": [
+    "greenish_yellow_body",
+    "gray_wing_edges",
+    "yellow_shoulders"
+  ],
+  "Cape_May_Warbler": [
+    "blue-gray_head",
+    "yellow_underparts",
+    "yellow_shoulders"
+  ],
+  "Mallard": [
+    "iridescent_green_head",
+    "iridescent_throat",
+    "dark_head"
+  ],
+  "Tropical_Kingbird": [
+    "yellow_belly_color",
+    "bright_yellow_underwing",
+    "bright_yellow_plumage"
+  ],
+  "Pelagic_Cormorant": [
+    "webbed_feet",
+    "dark_brown_plumage",
+    "three_toed_feet"
+  ],
+  "Purple_Finch": [
+    "rosy_red_breast",
+    "red_legs",
+    "red_bill"
+  ],
+  "Bohemian_Waxwing": [
+    "black_face_mask",
+    "all_black_plumage",
+    "gray_plumage"
+  ],
+  "Sage_Thrasher": [
+    "streaked_brown_head",
+    "streaked_brown_breast",
+    "brown_streaked_belly"
+  ],
+  "Gray_crowned_Rosy_Finch": [
+    "gray_furred_head",
+    "blue-gray_head",
+    "gray_plumage"
+  ],
+  "Song_Sparrow": [
+    "brown_streaked_belly",
+    "brown_feathered_body",
+    "streaked_brown_head"
+  ],
+  "Winter_Wren": [
+    "small_body_size",
+    "small_size_bird",
+    "large_size_bird"
+  ],
+  "White_eyed_Vireo": [
+    "pale_eye_ring",
+    "white_eye_rings",
+    "prominent_white_eye"
+  ],
+  "Least_Tern": [
+    "small_size_bird",
+    "large_size_bird",
+    "small_body_size"
+  ],
+  "Kentucky_Warbler": [
+    "yellow_belly_color",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Summer_Tanager": [
+    "strong_flight_pattern",
+    "bright_red_color",
+    "red_crown_color"
+  ],
+  "Grasshopper_Sparrow": [
+    "streaked_brown_head",
+    "streaked_brown_breast",
+    "brown_streaked_belly"
+  ],
+  "Artic_Tern": [
+    "black_body_color",
+    "large_white_body",
+    "white_head_and_body"
+  ],
+  "Sayornis": [
+    "tail_flicking_motion",
+    "gray_brown_color",
+    "rusty_brown_color"
+  ],
+  "European_Goldfinch": [
+    "red_face_patch",
+    "bright_yellow_underwing",
+    "bright_yellow_plumage"
+  ],
+  "Bronzed_Cowbird": [
+    "gray_brown_color",
+    "rusty_brown_color",
+    "brown_spots"
+  ],
+  "Black_and_white_Warbler": [
+    "black_and_white_pattern",
+    "black_and_white_back",
+    "black_body_pattern"
+  ],
+  "Le_Conte_Sparrow": [
+    "yellowish_underparts",
+    "brown_back_pattern",
+    "grey_back"
+  ],
+  "American_Goldfinch": [
+    "bright_yellow_plumage",
+    "bright_yellow_underwing",
+    "yellow_shoulders"
+  ],
+  "Chestnut_sided_Warbler": [
+    "chestnut_side_color",
+    "chestnut_crown",
+    "black_body_color"
+  ],
+  "Herring_Gull": [
+    "pale_gray_wings",
+    "large_wings",
+    "pale_underparts"
+  ],
+  "Rhinoceros_Auklet": [
+    "large_flat_bill",
+    "large_wings",
+    "red_bill"
+  ],
+  "Chipping_Sparrow": [
+    "rusty_crown_feathers",
+    "chestnut_crown",
+    "black_crown_stripe"
+  ],
+  "Dark_eyed_Junco": [
+    "pink_billed_bird",
+    "slate_gray_body",
+    "gray_plumage"
+  ],
+  "Cape_Glossy_Starling": [
+    "bright_green_reflections",
+    "all_black_plumage",
+    "gray_plumage"
+  ],
+  "Blue_winged_Warbler": [
+    "blue_tinted_wings",
+    "black_eye_line",
+    "large_wings"
+  ],
+  "Horned_Puffin": [
+    "prominent_head_horns",
+    "bright_orange_bill",
+    "red_bill"
+  ],
+  "White_throated_Sparrow": [
+    "yellow_bill_sides",
+    "black_throat_patch",
+    "white_throat_band"
+  ],
+  "Wilson_Warbler": [
+    "bright_yellow_plumage",
+    "bright_yellow_underwing",
+    "yellow_shoulders"
+  ],
+  "Lincoln_Sparrow": [
+    "brown_streaked_belly",
+    "streaked_brown_head",
+    "streaked_brown_breast"
+  ],
+  "Boat_tailed_Grackle": [
+    "long_tail_feature",
+    "long_streamlined_tail",
+    "long_thin_tail"
+  ],
+  "Florida_Jay": [
+    "blue_feathered_wings",
+    "large_wings",
+    "grey_wings"
+  ],
+  "White_breasted_Nuthatch": [
+    "white_breast_color",
+    "white_underparts",
+    "yellow_underparts"
+  ],
+  "Olive_sided_Flycatcher": [
+    "olive_green_back",
+    "grey_back",
+    "striped_back"
+  ],
+  "Hooded_Oriole": [
+    "bright_orange_bill",
+    "grey_body",
+    "red_bill"
+  ],
+  "House_Wren": [
+    "brown_streaked_belly",
+    "streaked_brown_head",
+    "streaked_brown_breast"
+  ],
+  "Fish_Crow": [
+    "slightly_smaller_size",
+    "all_black_plumage",
+    "gray_plumage"
+  ],
+  "Swainson_Warbler": [
+    "brown_back_pattern",
+    "grey_back",
+    "striped_back"
+  ],
+  "Cedar_Waxwing": [
+    "yellow_tipped_tail",
+    "yellow_shoulders",
+    "yellow_underparts"
+  ],
+  "Canada_Warbler": [
+    "olive_green_back",
+    "blue_gray_back",
+    "blue_back_feathers"
+  ]
+}

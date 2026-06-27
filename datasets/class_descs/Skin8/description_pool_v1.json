@@ -1,0 +1,16 @@
+{
+  "Melanoma": [
+    "irregular_border_shape",
+    "dark_color_variation",
+    "asymmetrical_growth_pattern",
+    "raised_surface_texture",
+    "multiple_color_spots"
+  ],
+  "Melanocytic_nevus": [
+    "smooth_surface_texture",
+    "uniform_color_pattern",
+    "small_round_shape",
+    "well_defined_edges",
+    "consistent_color_distribution"
+  ]
+}

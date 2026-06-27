@@ -1,0 +1,92 @@
+{
+  "actinic keratoses and intraepithelial carcinoma": [
+    "scaly_rough_patches",
+    "irregular_brown_spots",
+    "crusted_surface_lesions"
+  ],
+  "basal cell carcinoma": [
+    "shiny_pearly_nodules",
+    "raised_translucent_edges",
+    "central_ulcerated_areas"
+  ],
+  "benign keratosis-like lesions": [
+    "rough_surface_texture",
+    "varying_brown_shades",
+    "irregular_shape_outline"
+  ],
+  "dermatofibroma": [
+    "firm_rubbery_texture",
+    "uniform_tan_color",
+    "slightly_elevated_surface"
+  ],
+  "melanoma": [
+    "varied_color_pattern",
+    "asymmetric_spot_growth",
+    "irregular_shape_outline"
+  ],
+  "melanocytic nevi": [
+    "smooth_border_contours",
+    "symmetrical_round_shape",
+    "uniform_tan_color"
+  ],
+  "vascular lesions": [
+    "irregular_dark_shapes",
+    "dense_clustered_masses",
+    "uneven_texture_areas"
+  ],
+  "bladder": [
+    "smooth_round_contour",
+    "central_hollow_cavity",
+    "thin_wall_structure"
+  ],
+  "femur-left": [
+    "smooth_curved_bone",
+    "dense_compact_structure",
+    "rounded_joint_surface"
+  ],
+  "femur-right": [
+    "robust_straight_shaft",
+    "prominent_head_feature",
+    "textured_bone_pattern"
+  ],
+  "heart": [
+    "rounded_muscular_structure",
+    "thick_ventricle_wall",
+    "thin_wall_structure"
+  ],
+  "kidney-left": [
+    "bean_shaped_organ",
+    "smooth_outer_surface",
+    "curved_inner_contour"
+  ],
+  "kidney-right": [
+    "centralized_hilum_region",
+    "bean_shaped_organ",
+    "thin_wall_structure"
+  ],
+  "liver": [
+    "large_flat_lobe",
+    "smooth_dense_tissue",
+    "rounded_inferior_edge"
+  ],
+  "lung-left": [
+    "smooth_hilum_area",
+    "rounded_muscular_structure",
+    "thin_wall_structure"
+  ],
+  "lung-right": [
+    "elongated_bronchial_structure",
+    "airy_parenchymal_space",
+    "thin_wall_structure"
+  ],
+  "pancreas": [
+    "lobular_structure_visible",
+    "elongated_tissue_shape",
+    "dense_glandular_texture"
+  ],
+  "spleen": [
+    "rounded_organ_contour",
+    "granular_surface_pattern",
+    "smooth_round_contour"
+  ]
+}

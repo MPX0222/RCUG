@@ -1,0 +1,30 @@
+{
+  "Melanoma": [
+    "irregular_border_shape",
+    "dark_color_variation",
+    "asymmetrical_growth_pattern",
+    "raised_surface_texture",
+    "multiple_color_spots"
+  ],
+  "Melanocytic_nevus": [
+    "smooth_surface_texture",
+    "uniform_color_pattern",
+    "small_round_shape",
+    "well_defined_edges",
+    "consistent_color_distribution"
+  ],
+  "Basal_cell_carcinoma": [
+    "pearly_waxy_nodule",
+    "scaly_red_patch",
+    "ulcerated_skin_area",
+    "translucent_border_lesion",
+    "irregular_border_shape"
+  ],
+  "Actinic_keratosis": [
+    "rough_scaly_patches",
+    "dry_crusty_spots",
+    "reddish_tan_lesions",
+    "thickened_skin_area",
+    "irregular_edge_wart"
+  ]
+}

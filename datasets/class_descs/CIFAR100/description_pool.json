@@ -1,0 +1,502 @@
+{
+  "road": [
+    "asphalt_surface",
+    "yellow_line_markings",
+    "curved_pathway"
+  ],
+  "palm_tree": [
+    "tall_trunk",
+    "feathery_leaves",
+    "green_coconuts"
+  ],
+  "snake": [
+    "scaly_body",
+    "forked_tongue",
+    "slender_shape"
+  ],
+  "bicycle": [
+    "two_wheels",
+    "handlebar_grip",
+    "pedal_crank"
+  ],
+  "cloud": [
+    "fluffy_white",
+    "cumulus_shape",
+    "blue_sky"
+  ],
+  "table": [
+    "wooden_surface",
+    "four_legs",
+    "rectangular_shape"
+  ],
+  "train": [
+    "metal_cars",
+    "railroad_tracks",
+    "speeding_motion"
+  ],
+  "rabbit": [
+    "long_ears",
+    "fluffy_tail",
+    "white_pelt"
+  ],
+  "shrew": [
+    "small_size",
+    "pointed_snout",
+    "brown_fur"
+  ],
+  "skyscraper": [
+    "glass_windows",
+    "tall_structure",
+    "urban_landscape"
+  ],
+  "lamp": [
+    "glowing_light",
+    "decorative_base",
+    "shade_cover"
+  ],
+  "tractor": [
+    "large_wheels",
+    "front_loader",
+    "green_color"
+  ],
+  "bear": [
+    "thick_fur",
+    "large_paws",
+    "rounded_ears"
+  ],
+  "tulip": [
+    "colorful_petals",
+    "green_stem",
+    "cup_shape"
+  ],
+  "otter": [
+    "streamlined_body",
+    "webbed_feet",
+    "playful_expression"
+  ],
+  "bottle": [
+    "clear_glass",
+    "narrow_neck",
+    "liquid_container"
+  ],
+  "crab": [
+    "hard_shell",
+    "clawed_arms",
+    "sideways_walk"
+  ],
+  "squirrel": [
+    "bushy_tail",
+    "nimble_body",
+    "brown_fur"
+  ],
+  "lion": [
+    "golden_mane",
+    "powerful_build",
+    "sharp_claws"
+  ],
+  "kangaroo": [
+    "strong_tail",
+    "large_legs",
+    "pouch_body"
+  ],
+  "pickup_truck": [
+    "large_cab_body",
+    "four_wheel_drive",
+    "open_flatbed"
+  ],
+  "rose": [
+    "vibrant_petal_colors",
+    "sharp_thorn_stems",
+    "fragrant_flower_buds"
+  ],
+  "snail": [
+    "spiral_shell_pattern",
+    "slimy_body_texture",
+    "retractable_eye_stalks"
+  ],
+  "aquarium_fish": [
+    "colorful_scaly_bodies",
+    "swimming_finned_bodies",
+    "bright_striped_patterns"
+  ],
+  "tank": [
+    "heavy_armored_shell",
+    "cannon_mounted_top",
+    "caterpillar_tracks"
+  ],
+  "cattle": [
+    "short_horned_heads",
+    "large_muscular_bodies",
+    "thick_brown_hide"
+  ],
+  "castle": [
+    "tall_stone_towers",
+    "fortified_walls_structure",
+    "arched_gate_entrances"
+  ],
+  "mouse": [
+    "small_furry_body",
+    "long_whisker_features",
+    "pointed_nose_shape"
+  ],
+  "cup": [
+    "ceramic_round_shape",
+    "colorful_glazed_surface",
+    "handle_on_side"
+  ],
+  "orange": [
+    "bright_citrus_color",
+    "rough_peel_texture",
+    "round_fruit_shape"
+  ],
+  "bus": [
+    "large_passenger_capacity",
+    "wide_front_windows",
+    "distinctive_side_doors"
+  ],
+  "streetcar": [
+    "long_sleek_body",
+    "overhead_power_lines",
+    "multiple_side_windows"
+  ],
+  "lobster": [
+    "clawed_front_appendages",
+    "long_bodied_shape",
+    "front_loader"
+  ],
+  "sunflower": [
+    "large_yellow_petals",
+    "tall_stem_height",
+    "dark_center_disc"
+  ],
+  "bee": [
+    "striped_body_pattern",
+    "transparent_wing_structure",
+    "pollen_collector_hairs"
+  ],
+  "pine_tree": [
+    "long_needle_leaves",
+    "tall_conical_shape",
+    "thick_bark_texture"
+  ],
+  "sweet_pepper": [
+    "bell_shape_fruit",
+    "smooth_skin_surface",
+    "vivid_color_variants"
+  ],
+  "can": [
+    "metallic_smooth_surface",
+    "cylindrical_shape",
+    "pull_tab_top"
+  ],
+  "camel": [
+    "humped_back_shape",
+    "long_neck_length",
+    "desert_adapted_appearance"
+  ],
+  "lizard": [
+    "scaled_body_texture",
+    "color_changing_skin",
+    "scaly_body"
+  ],
+  "trout": [
+    "spotted_skin",
+    "streaming_fins",
+    "silvery_scales"
+  ],
+  "lawn_mower": [
+    "metal_blades",
+    "green_grass_cutting",
+    "push_handle"
+  ],
+  "seal": [
+    "blubbery_body",
+    "whiskered_face",
+    "flippered_limbs"
+  ],
+  "plain": [
+    "vast_grassy_land",
+    "open_sky",
+    "gentle_hills"
+  ],
+  "spider": [
+    "eight_spindly_legs",
+    "webbed_structure",
+    "four_legs"
+  ],
+  "oak_tree": [
+    "broad_leaves",
+    "thick_trunk",
+    "gnarled_branches"
+  ],
+  "chair": [
+    "wooden_frame",
+    "cushioned_seat",
+    "wooden_surface"
+  ],
+  "bowl": [
+    "ceramic_material",
+    "glossy_surface",
+    "ceramic_round_shape"
+  ],
+  "elephant": [
+    "large_ears",
+    "trunked_face",
+    "wrinkled_skin"
+  ],
+  "orchid": [
+    "exotic_petals",
+    "delicate_stem",
+    "colorful_petals"
+  ],
+  "house": [
+    "sloping_roof",
+    "window_frames",
+    "front_door"
+  ],
+  "whale": [
+    "massive_body",
+    "broad_fluke",
+    "blowhole_top"
+  ],
+  "butterfly": [
+    "colorful_wings",
+    "delicate_antennas",
+    "fluttering_motion"
+  ],
+  "sea": [
+    "blue_waves",
+    "sparkling_surface",
+    "endless_horizon"
+  ],
+  "willow_tree": [
+    "long_drooping_branches",
+    "thin_leaves",
+    "graceful_form"
+  ],
+  "woman": [
+    "long_hair",
+    "elegant_dress",
+    "smiling_face"
+  ],
+  "wolf": [
+    "pointed_ears",
+    "sharp_teeth",
+    "thick_fur"
+  ],
+  "baby": [
+    "tiny_hands",
+    "soft_skin",
+    "innocent_expression"
+  ],
+  "possum": [
+    "prehensile_tail",
+    "pointed_nose_shape",
+    "pointed_snout"
+  ],
+  "raccoon": [
+    "mask_like_face",
+    "ringed_tail",
+    "dexterous_paws"
+  ],
+  "leopard": [
+    "spotted_fur_pattern",
+    "sharp_clawed_paws",
+    "brown_fur"
+  ],
+  "clock": [
+    "round_face_dial",
+    "golden_hour_hand",
+    "roman_numerals_markings"
+  ],
+  "girl": [
+    "colorful_dress_pattern",
+    "long_hair",
+    "long_ears"
+  ],
+  "telephone": [
+    "vintage_corded_design",
+    "circular_dial_pad",
+    "shiny_black_case"
+  ],
+  "cockroach": [
+    "flat_brown_body",
+    "long_threadlike_antennae",
+    "scaly_body"
+  ],
+  "fox": [
+    "white_chest_fur",
+    "bushy_tail",
+    "fluffy_tail"
+  ],
+  "television": [
+    "flat_screen_display",
+    "shiny_black_frame",
+    "remote_control_buttons"
+  ],
+  "chimpanzee": [
+    "expressive_face_features",
+    "long_humanlike_arms",
+    "small_furry_body"
+  ],
+  "worm": [
+    "earthy_brown_color",
+    "segmented_body_structure",
+    "long_sleek_body"
+  ],
+  "apple": [
+    "shiny_red_skin",
+    "spotted_skin",
+    "wrinkled_skin"
+  ],
+  "tiger": [
+    "striped_orange_fur",
+    "powerful_muscular_body",
+    "long_curved_claws"
+  ],
+  "crocodile": [
+    "scaly_green_skin",
+    "green_coconuts",
+    "scaly_body"
+  ],
+  "caterpillar": [
+    "green_segmented_body",
+    "tiny_hairlike_projections",
+    "curved_shape_body"
+  ],
+  "wardrobe": [
+    "wooden_sliding_doors",
+    "spacious_interior_shelves",
+    "stylish_handle_design"
+  ],
+  "boy": [
+    "short_brown_hair",
+    "casual_tshirt_style",
+    "brown_fur"
+  ],
+  "bridge": [
+    "arched_stone_structure",
+    "spanning_waterway_crossing",
+    "supporting_pillars_base"
+  ],
+  "maple_tree": [
+    "vibrant_red_foliage",
+    "broad_leaves",
+    "feathery_leaves"
+  ],
+  "couch": [
+    "plush_fabric_surface",
+    "wide_seating_area",
+    "soft_cushioned_backrest"
+  ],
+  "dolphin": [
+    "curved_dorsal_fin",
+    "playful_swimming_pose",
+    "long_sleek_body"
+  ],
+  "man": [
+    "short_black_hair",
+    "smart_casual_attire",
+    "long_hair"
+  ],
+  "poppy": [
+    "black_center_spot",
+    "delicate_green_stems",
+    "vibrant_red_foliage"
+  ],
+  "rocket": [
+    "bright_flaming_engine",
+    "long_sleek_body",
+    "scaly_body"
+  ],
+  "hamster": [
+    "tiny_black_eyes",
+    "short_curled_tail",
+    "brown_fur"
+  ],
+  "plate": [
+    "ceramic_white_surface",
+    "decorative_blue_pattern",
+    "shiny_glossy_finish"
+  ],
+  "beetle": [
+    "colorful_spot_patterns",
+    "hard_exoskeleton_texture",
+    "shiny_black_case"
+  ],
+  "porcupine": [
+    "spiky_quills_back",
+    "round_black_nose",
+    "short_stout_body"
+  ],
+  "skunk": [
+    "black_white_stripes",
+    "small_paw_prints",
+    "fluffy_white"
+  ],
+  "bed": [
+    "soft_padded_mattress",
+    "decorative_quilt_cover",
+    "sturdy_wood_frame"
+  ],
+  "flatfish": [
+    "flattened_body_shape",
+    "camouflaged_skin_texture",
+    "wide_flat_fins"
+  ],
+  "beaver": [
+    "large_flat_tail",
+    "brown_fur",
+    "fluffy_tail"
+  ],
+  "mushroom": [
+    "round_brown_cap",
+    "white_stem_structure",
+    "spotted_surface_texture"
+  ],
+  "motorcycle": [
+    "shiny_chrome_parts",
+    "thick_rubber_tires",
+    "shiny_black_frame"
+  ],
+  "shark": [
+    "sharp_teeth",
+    "sharp_claws",
+    "sharp_thorn_stems"
+  ],
+  "turtle": [
+    "small_head_with_eyes",
+    "webbed_flipper_limbs",
+    "hard_shell"
+  ],
+  "keyboard": [
+    "black_keys_layout",
+    "silver_metal_frame",
+    "backlit_key_design"
+  ],
+  "ray": [
+    "flat_wing_shape",
+    "long_tail_stinger",
+    "slender_shape"
+  ],
+  "dinosaur": [
+    "scaly_green_skin",
+    "green_coconuts",
+    "scaly_body"
+  ],
+  "mountain": [
+    "rugged_rocky_peaks",
+    "snow_capped_summits",
+    "lush_green_slopes"
+  ],
+  "pear": [
+    "green_juicy_fruit",
+    "rounded_bottom_shape",
+    "green_coconuts"
+  ],
+  "forest": [
+    "dense_tree_canopy",
+    "thick_underbrush_growth",
+    "sunlight_filtering_through"
+  ]
+}
